@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499320
+                "stars": 499509
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-26T03:29:02Z",
                 "owner": "Hack-with-Github",
                 "repo": "Awesome-Hacking",
-                "stars": 118909
+                "stars": 118949
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-06-02T22:46:41Z",
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33619
+                "stars": 33620
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-22T17:50:41Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28273
+                "stars": 28281
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14790
+                "stars": 14791
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-06-07T05:09:47Z",
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14151
+                "stars": 14149
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2023-04-03T07:40:28Z",
                 "owner": "blaCCkHatHacEEkr",
                 "repo": "PENTESTING-BIBLE",
-                "stars": 13935
+                "stars": 13936
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-21T13:51:02Z",
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13723
+                "stars": 13726
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-21T18:33:19Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9632
+                "stars": 9638
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2024-06-05T17:03:14Z",
                 "owner": "euphrat1ca",
                 "repo": "Security-List",
-                "stars": 1528
+                "stars": 1529
               }
             },
             {
@@ -384,7 +384,7 @@
                 "last_commit": "2025-08-28T14:42:47Z",
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359570
+                "stars": 359617
               }
             },
             {
@@ -399,7 +399,7 @@
                 "last_commit": "2024-08-21T09:40:10Z",
                 "owner": "CyC2018",
                 "repo": "CS-Notes",
-                "stars": 185596
+                "stars": 185618
               }
             },
             {
@@ -414,7 +414,7 @@
                 "last_commit": "2026-07-29T15:18:29Z",
                 "owner": "jackfrued",
                 "repo": "Python-100-Days",
-                "stars": 185533
+                "stars": 185563
               }
             },
             {
@@ -426,10 +426,10 @@
                 "archived": false,
                 "id": 132464395,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T15:51:09Z",
+                "last_commit": "2026-08-24T09:08:16Z",
                 "owner": "Snailclimb",
                 "repo": "JavaGuide",
-                "stars": 157978
+                "stars": 157995
               }
             },
             {
@@ -444,7 +444,7 @@
                 "last_commit": "2026-08-07T12:06:42Z",
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 142107
+                "stars": 142118
               }
             },
             {
@@ -459,7 +459,7 @@
                 "last_commit": "2026-02-28T10:07:31Z",
                 "owner": "labuladong",
                 "repo": "fucking-algorithm",
-                "stars": 135439
+                "stars": 135442
               }
             },
             {
@@ -471,10 +471,10 @@
                 "archived": false,
                 "id": 151834062,
                 "language": "Java",
-                "last_commit": "2026-06-25T02:21:18Z",
+                "last_commit": "2026-08-24T12:26:20Z",
                 "owner": "doocs",
                 "repo": "advanced-java",
-                "stars": 79078
+                "stars": 79077
               }
             },
             {
@@ -489,7 +489,7 @@
                 "last_commit": "2026-07-15T15:55:09Z",
                 "owner": "charlax",
                 "repo": "professional-programming",
-                "stars": 51443
+                "stars": 51442
               }
             },
             {
@@ -504,7 +504,7 @@
                 "last_commit": "2025-10-22T09:39:06Z",
                 "owner": "0voice",
                 "repo": "interview_internal_reference",
-                "stars": 37236
+                "stars": 37237
               }
             },
             {
@@ -534,7 +534,7 @@
                 "last_commit": "2024-03-04T15:39:50Z",
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18509
+                "stars": 18515
               }
             },
             {
@@ -646,7 +646,7 @@
                 "last_commit": "2026-08-21T08:08:53Z",
                 "owner": "jaywcjlove",
                 "repo": "awesome-mac",
-                "stars": 111674
+                "stars": 111705
               }
             },
             {
@@ -661,7 +661,7 @@
                 "last_commit": "2026-08-21T00:10:40Z",
                 "owner": "ruanyf",
                 "repo": "weekly",
-                "stars": 101096
+                "stars": 101147
               }
             },
             {
@@ -673,10 +673,10 @@
                 "archived": false,
                 "id": 3482588,
                 "language": "PHP",
-                "last_commit": "2026-08-23T11:08:38Z",
+                "last_commit": "2026-08-24T11:12:01Z",
                 "owner": "danielmiessler",
                 "repo": "SecLists",
-                "stars": 73031
+                "stars": 73037
               }
             },
             {
@@ -736,7 +736,7 @@
                 "last_commit": "2026-08-23T18:27:23Z",
                 "owner": "iCHAIT",
                 "repo": "awesome-macOS",
-                "stars": 19075
+                "stars": 19078
               }
             },
             {
@@ -751,7 +751,7 @@
                 "last_commit": "2023-01-28T07:48:04Z",
                 "owner": "yujiangshui",
                 "repo": "A-Programmers-Guide-to-English",
-                "stars": 16621
+                "stars": 16623
               }
             },
             {
@@ -796,7 +796,7 @@
                 "last_commit": "2024-01-15T12:53:02Z",
                 "owner": "623637646",
                 "repo": "996.Leave",
-                "stars": 6653
+                "stars": 6654
               }
             },
             {
@@ -826,7 +826,7 @@
                 "last_commit": "2026-08-15T16:05:29Z",
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5722
+                "stars": 5723
               }
             },
             {
@@ -871,7 +871,7 @@
                 "last_commit": "2026-06-15T19:57:31Z",
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4259
+                "stars": 4260
               }
             },
             {
@@ -886,7 +886,7 @@
                 "last_commit": "2023-05-15T21:54:24Z",
                 "owner": "foospidy",
                 "repo": "payloads",
-                "stars": 3978
+                "stars": 3979
               }
             },
             {
@@ -1004,7 +1004,7 @@
                 "last_commit": "2026-05-05T21:38:04Z",
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6521
+                "stars": 6522
               }
             },
             {
@@ -1044,6 +1044,50 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "kvm",
+                  "description": "yifengyou师傅 kvm笔记",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 138052940,
+                    "language": "C",
+                    "last_commit": "2022-12-13T09:09:03Z",
+                    "owner": "yifengyou",
+                    "repo": "learn-kvm",
+                    "stars": 1330
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "云基础知识"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "阿里云安全白皮书",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102005234,
+                    "language": null,
+                    "last_commit": "2024-09-26T00:57:16Z",
+                    "owner": "tom0li",
+                    "repo": "collection-document",
+                    "stars": 2116
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "云原生安全"
+            },
             {
               "children": [
                 {
@@ -1115,7 +1159,7 @@
                 "last_commit": "2023-04-27T16:51:42Z",
                 "owner": "mitre",
                 "repo": "advmlthreatmatrix",
-                "stars": 1111
+                "stars": 1110
               }
             },
             {
@@ -1137,6 +1181,57 @@
           "description": null,
           "node_type": "group",
           "title": "AI安全"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "零信任下代理工具",
+                  "description": "把chrome作为代理，可以通过chrome访问受害者可以访问web服务",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 259131257,
+                    "language": "JavaScript",
+                    "last_commit": "2024-10-26T19:06:54Z",
+                    "owner": "mandatoryprogrammer",
+                    "repo": "CursedChrome",
+                    "stars": 1728
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "零信任"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome-DevSecOps",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43963567,
+                    "language": null,
+                    "last_commit": "2024-05-11T17:48:07Z",
+                    "owner": "devsecops",
+                    "repo": "awesome-devsecops",
+                    "stars": 5460
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "DevSecOps"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "新安全方案"
         },
         {
           "children": [
@@ -1181,6 +1276,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "openedr",
+                  "description": "开源产品edr",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 308137876,
+                    "language": "C++",
+                    "last_commit": "2026-05-23T23:36:21Z",
+                    "owner": "ComodoSecurity",
+                    "repo": "openedr",
+                    "stars": 2715
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "EDR"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "herpaderping",
                   "description": "一种新型 bypass defender",
                   "children": [],
@@ -1213,11 +1330,106 @@
               "description": null,
               "node_type": "group",
               "title": "AV"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Honeypots",
+                  "description": "Honeypots, tools, components, and more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 37659549,
+                    "language": "Python",
+                    "last_commit": "2026-06-01T14:15:45Z",
+                    "owner": "paralax",
+                    "repo": "awesome-honeypots",
+                    "stars": 10532
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "横向移动检测-蜜罐思路"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "maltrail",
+                  "description": "开源流量检测产品",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27561102,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T12:46:35Z",
+                    "owner": "stamparm",
+                    "repo": "maltrail",
+                    "stars": 8584
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "恶意流量检测"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "威胁检测"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "记录一些网络空间测绘/搜索引擎相关的资料",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 351036940,
+                    "language": null,
+                    "last_commit": "2022-09-24T09:32:21Z",
+                    "owner": "EXHades",
+                    "repo": "CyberSpaceSearchEngine-Research",
+                    "stars": 201
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "网络测绘"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "数据安全"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "保护隐私",
+              "description": "关于数字隐私搜集方法list",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 195766483,
+                "language": null,
+                "last_commit": "2022-10-09T09:48:34Z",
+                "owner": "ffffffff0x",
+                "repo": "Digital-Privacy",
+                "stars": 4944
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "个人安全"
         },
         {
           "children": [
@@ -1262,6 +1474,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "https://github.com/BloodHoundAD/BloodHound/issues/267",
+                  "description": "xss",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56452110,
+                    "language": "PowerShell",
+                    "last_commit": "2026-03-02T18:29:31Z",
+                    "owner": "SpecterOps",
+                    "repo": "BloodHound-Legacy",
+                    "stars": 10605
+                  }
+                }
+              ],
+              "description": "邮件伪造",
+              "node_type": "group",
+              "title": "钓鱼"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "QuasarRAT",
                   "description": null,
                   "children": [],
@@ -1291,6 +1525,93 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "如何使用Fuzzing挖掘ImageMagick的漏洞",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97681609,
+                "language": "Mask",
+                "last_commit": "2017-07-26T03:59:25Z",
+                "owner": "lcatro",
+                "repo": "Fuzzing-ImageMagick",
+                "stars": 296
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ImageMagick"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome-Fuzzing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62374656,
+                "language": null,
+                "last_commit": "2024-04-03T07:04:46Z",
+                "owner": "secfigo",
+                "repo": "Awesome-Fuzzing",
+                "stars": 5902
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "FUZZING"
+        }
+      ],
+      "title": "预警&研究"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Java漏洞代码",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115394871,
+            "language": "Java",
+            "last_commit": "2024-12-02T20:14:27Z",
+            "owner": "JoyChou93",
+            "repo": "java-sec-code",
+            "stars": 2673
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Java-Deserialization-Cheat-Sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52396258,
+                "language": null,
+                "last_commit": "2023-05-26T15:18:01Z",
+                "owner": "GrrrDog",
+                "repo": "Java-Deserialization-Cheat-Sheet",
+                "stars": 3182
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "反序列化-其他"
+        },
         {
           "children": [
             {
@@ -1327,6 +1648,35 @@
           "description": null,
           "node_type": "group",
           "title": "Solr模版注入"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Spring Boot Vulnerability Exploit CheckList",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 265513067,
+                    "language": "Java",
+                    "last_commit": "2021-03-10T13:03:25Z",
+                    "owner": "LandGrey",
+                    "repo": "SpringBootVulExploit",
+                    "stars": 6144
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Spring-boot"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spring"
         }
       ],
       "title": "代码审计-JAVA"
@@ -1350,7 +1700,7 @@
                     "last_commit": "2026-07-25T12:15:45Z",
                     "owner": "enaqx",
                     "repo": "awesome-pentest",
-                    "stars": 26994
+                    "stars": 26995
                   }
                 },
                 {
@@ -1425,7 +1775,7 @@
                     "last_commit": "2024-09-26T00:57:16Z",
                     "owner": "tom0li",
                     "repo": "collection-document",
-                    "stars": 2115
+                    "stars": 2116
                   }
                 },
                 {
@@ -1440,7 +1790,7 @@
                     "last_commit": "2024-09-26T00:57:16Z",
                     "owner": "tom0li",
                     "repo": "collection-document",
-                    "stars": 2115
+                    "stars": 2116
                   }
                 },
                 {
@@ -1529,7 +1879,7 @@
                     "last_commit": "2026-07-22T18:03:31Z",
                     "owner": "vulhub",
                     "repo": "vulhub",
-                    "stars": 21156
+                    "stars": 21161
                   }
                 },
                 {
@@ -1566,7 +1916,7 @@
                     "last_commit": "2026-08-09T13:38:47Z",
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80310
+                    "stars": 80323
                   }
                 },
                 {
@@ -1668,7 +2018,7 @@
                 "last_commit": "2016-04-08T12:20:32Z",
                 "owner": "l3m0n",
                 "repo": "pentest_study",
-                "stars": 3036
+                "stars": 3035
               }
             },
             {
@@ -1700,7 +2050,7 @@
                     "last_commit": "2026-03-02T18:29:31Z",
                     "owner": "SpecterOps",
                     "repo": "BloodHound-Legacy",
-                    "stars": 10604
+                    "stars": 10605
                   }
                 },
                 {
@@ -1730,7 +2080,7 @@
                     "last_commit": "2022-05-26T02:51:51Z",
                     "owner": "3gstudent",
                     "repo": "Pentest-and-Development-Tips",
-                    "stars": 1127
+                    "stars": 1126
                   }
                 },
                 {
@@ -1812,7 +2162,7 @@
                     "last_commit": "2021-06-11T23:29:15Z",
                     "owner": "SecWiki",
                     "repo": "windows-kernel-exploits",
-                    "stars": 8718
+                    "stars": 8717
                   }
                 },
                 {
@@ -1857,7 +2207,7 @@
                     "last_commit": "2023-05-11T12:44:55Z",
                     "owner": "strozfriedberg",
                     "repo": "Windows-Exploit-Suggester",
-                    "stars": 4230
+                    "stars": 4229
                   }
                 }
               ],
@@ -1927,6 +2277,100 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AwesomeXSS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124765446,
+                "language": "JavaScript",
+                "last_commit": "2024-10-30T19:01:10Z",
+                "owner": "s0md3v",
+                "repo": "AwesomeXSS",
+                "stars": 5136
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XSS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "上传漏洞的靶场",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134870037,
+                "language": "PHP",
+                "last_commit": "2023-06-26T12:37:14Z",
+                "owner": "c0ny1",
+                "repo": "upload-labs",
+                "stars": 4188
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "上传"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DNS-Persist: 利用 DNS 协议进行远程控制通信",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110261659,
+                "language": "C++",
+                "last_commit": "2017-11-20T08:53:25Z",
+                "owner": "0x09AL",
+                "repo": "DNS-Persist",
+                "stars": 206
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DNS"
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Git的tip",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63418718,
+                "language": null,
+                "last_commit": "2022-12-08T03:13:00Z",
+                "owner": "521xueweihan",
+                "repo": "git-tips",
+                "stars": 15852
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git"
+        },
         {
           "children": [
             {
@@ -2029,7 +2473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:09:53.300Z",
+    "last_updated": "2026-08-24T14:04:41.785Z",
     "original_repository": "tom0li/collection-document",
     "original_repository_id": 102005234,
     "original_repository_sha": "e4915c88f8012a7e6dc7f16f626a1829bccf2b1f",
