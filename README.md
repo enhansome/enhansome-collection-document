@@ -130,24 +130,24 @@ Blog: https://tom0li.github.io
 
 ### Awesome-list
 
-* [Curated list of awesome lists](https://github.com/sindresorhus/awesome) ⭐ 500,347 | 🐛 105 | 📅 2026-08-21
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 119,145 | 🐛 40 | 📅 2026-07-26 - 万星list
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 119,147 | 🐛 40 | 📅 2026-07-26 - 万星list
 * [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,628 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 - The List of the Lists.
-* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,398 | 🐛 6 | 📅 2026-08-25 - Awesome OSINT list containing great resources.
+* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,407 | 🐛 6 | 📅 2026-08-25 - Awesome OSINT list containing great resources.
 * [Security](https://github.com/sbilly/awesome-security) ⭐ 14,797 | 🐛 313 | 📅 2026-01-11 - Software, libraries, documents, and other resources.
-* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,159 | 🐛 25 | 📅 2024-06-07
+* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,158 | 🐛 25 | 📅 2024-06-07
 * [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) ⭐ 13,939 | 🐛 28 | 📅 2023-04-03 - 安全相关的内容
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,731 | 🐛 4 | 🌐 Python | 📅 2026-08-21
 * [Android Security](https://github.com/ashishb/android-security-awesome) ⭐ 9,646 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21 - Collection of Android security related resources.
 * [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box) ⭐ 9,025 | 🐛 1 | 📅 2026-08-12 - The toolbox of open source scanners
-* [An Information Security Reference That Doesn't Suck](https://github.com/rmusser01/Infosec_Reference) ⭐ 5,987 | 🐛 5 | 🌐 CSS | 📅 2025-10-20
+* [An Information Security Reference That Doesn't Suck](https://github.com/rmusser01/Infosec_Reference) ⭐ 5,987 | 🐛 4 | 🌐 CSS | 📅 2025-10-20
 * [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) ⭐ 4,299 | 🐛 7 | 🌐 HTML | 📅 2021-10-02 - by CHYbeta
 * [Security Talks](https://github.com/PaulSec/awesome-sec-talks) ⭐ 4,231 | 🐛 0 | 📅 2026-02-17 - Curated list of security conferences.
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,203 | 🐛 25 | 📅 2024-07-31
 * [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) ⭐ 2,425 | 🐛 3 | 📅 2020-05-16
 * [Pentest\_Interview](https://github.com/Leezj9671/Pentest_Interview) ⭐ 2,001 | 🐛 3 | 📅 2026-05-22
 * [tanjiti 信息源](https://github.com/tanjiti/sec_profile) ⭐ 1,603 | 🐛 4 | 🌐 HTML | 📅 2026-08-23 - by 百度tanjiti 每天爬取的安全信息源
-* [security\_w1k1](https://github.com/euphrat1ca/security_w1k1/) ⭐ 1,529 | 🐛 5 | 📅 2024-06-05 euphrat1ca师傅时时刻刻更新和安全相关的仓库
+* [security\_w1k1](https://github.com/euphrat1ca/security_w1k1/) ⭐ 1,529 | 🐛 4 | 📅 2024-06-05 euphrat1ca师傅时时刻刻更新和安全相关的仓库
 * [resource collection of python security and code review](https://github.com/bit4woo/python_sec) ⭐ 1,352 | 🐛 2 | 📅 2020-08-06
 * [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) ⭐ 1,351 | 🐛 0 | 📅 2022-07-14 - notes
 * [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) ⭐ 1,279 | 🐛 3 | 🌐 HTML | 📅 2022-08-31 - by CHYbeta
@@ -158,13 +158,13 @@ Blog: https://tom0li.github.io
 
 ### 开发
 
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,824 | 🐛 125 | 📅 2025-08-28
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,826 | 🐛 125 | 📅 2025-08-28
 * [面试必备基础知识](https://github.com/CyC2018/CS-Notes) ⭐ 185,678 | 🐛 196 | 📅 2024-08-21
-* [Python-100-Days](https://github.com/jackfrued/Python-100-Days) ⭐ 185,662 | 🐛 714 | 🌐 Jupyter Notebook | 📅 2026-07-29
-* [Java学习+面试指南 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide) ⭐ 158,066 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-26
-* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 142,198 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-07 - good
+* [Python-100-Days](https://github.com/jackfrued/Python-100-Days) ⭐ 185,664 | 🐛 714 | 🌐 Jupyter Notebook | 📅 2026-07-29
+* [Java学习+面试指南 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide) ⭐ 158,067 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-26
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 142,200 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-07 - good
 * [算法手记](https://github.com/labuladong/fucking-algorithm) ⭐ 135,472 | 🐛 0 | 🌐 Markdown | 📅 2026-02-28
-* [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java) ⭐ 79,087 | 🐛 0 | 🌐 Java | 📅 2026-08-24
+* [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java) ⭐ 79,086 | 🐛 0 | 🌐 Java | 📅 2026-08-24
 * [A collection of full-stack resources for programmers.](https://github.com/charlax/professional-programming) ⭐ 51,451 | 🐛 6 | 🌐 Python | 📅 2026-07-15
 * [interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) ⭐ 37,244 | 🐛 35 | 🌐 Python | 📅 2025-10-22
 * [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) ⭐ 23,136 | 🐛 160 | 🌐 Python | 📅 2024-08-21
@@ -178,13 +178,13 @@ Blog: https://tom0li.github.io
 
 ### 其它
 
-* [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7) ⭐ 111,877 | 🐛 740 | 🌐 Swift | 📅 2026-08-26 - mac软件
-* [ruanyf](https://github.com/ruanyf/weekly) ⭐ 101,393 | 🐛 8,835 | 📅 2026-08-26 - 科技爱好者周刊
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,117 | 🐛 13 | 🌐 PHP | 📅 2026-08-26 - Collection of multiple types of lists used during security assessments.
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7) ⭐ 111,880 | 🐛 741 | 🌐 Swift | 📅 2026-08-26 - mac软件
+* [ruanyf](https://github.com/ruanyf/weekly) ⭐ 101,396 | 🐛 8,836 | 📅 2026-08-26 - 科技爱好者周刊
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,120 | 🐛 13 | 🌐 PHP | 📅 2026-08-26 - Collection of multiple types of lists used during security assessments.
 * [杭州买房](https://github.com/houshanren/hangzhou_house_knowledge) ⭐ 26,869 | 🐛 103 | 🌐 CSS | 📅 2022-02-28
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐ 23,269 | 🐛 139 | 🌐 JavaScript | 📅 2025-12-29
-* [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,493 | 🐛 8 | 📅 2026-08-27
-* [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,090 | 🐛 65 | 📅 2026-08-23 - mac软件
+* [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,494 | 🐛 8 | 📅 2026-08-27
+* [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,089 | 🐛 66 | 📅 2026-08-23 - mac软件
 * [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English) ⭐ 16,636 | 🐛 9 | 📅 2023-01-28
 * [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh) ⭐ 12,504 | 🐛 9 | 📅 2023-06-06
 * [AppSec](https://github.com/paragonie/awesome-appsec) ⭐ 7,043 | 🐛 40 | 🌐 PHP | 📅 2025-02-22 - Resources for learning about application security.
@@ -695,10 +695,10 @@ AWVS钓鱼
 
 #### 渗透记录和总结
 
-* [awesome-pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,021 | 🐛 104 | 📅 2026-07-25 - A collection of awesome penetration testing resources.
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,022 | 🐛 104 | 📅 2026-07-25 - A collection of awesome penetration testing resources.
 * [Micropoor](https://github.com/Micropoor/Micro8) ⭐ 18,056 | 🐛 17 | 📅 2021-04-10
 * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) ⚠️ Archived - Awesome Pentest Cheat Sheets.
-* [pentest-wiki](https://github.com/nixawk/pentest-wiki/) ⭐ 3,751 | 🐛 22 | 🌐 Python | 📅 2023-09-13
+* [pentest-wiki](https://github.com/nixawk/pentest-wiki/) ⭐ 3,751 | 🐛 21 | 🌐 Python | 📅 2023-09-13
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) ⭐ 2,657 | 🐛 1 | 📅 2025-07-27
 * [渗透测试实战第三版](https://github.com/tom0li/collection-document/blob/master/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88\(%E7%BA%A2%E9%98%9F%E7%89%88\).pdf) ⭐ 2,116 | 🐛 0 | 📅 2024-09-26
 * [Redis主从利用ppt](https://github.com/tom0li/collection-document/blob/master/15-redis-post-exploitation.pdf) ⭐ 2,116 | 🐛 0 | 📅 2024-09-26
@@ -747,8 +747,8 @@ AWVS钓鱼
 
 #### 渗透技巧
 
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,415 | 🐛 35 | 🌐 Python | 📅 2026-08-27 - Payloads 大全
-* [awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) ⭐ 3,439 | 🐛 1 | 📅 2026-08-15
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,417 | 🐛 35 | 🌐 Python | 📅 2026-08-27 - Payloads 大全
+* [awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) ⭐ 3,440 | 🐛 1 | 📅 2026-08-15
 * [Frida.Android.Practice (ssl unpinning)](https://github.com/WooyunDota/DroidDrops/blob/master/2018/Frida.Android.Practice.md) ⭐ 400 | 🐛 1 | 📅 2018-07-13
 * [iptable介绍](https://github.com/tom0li/security_circle/blob/master/15552854825122.md) ⭐ 20 | 🐛 0 | 📅 2017-11-20
 * [BurpSuite多重代理](https://www.anquanke.com/post/id/85925)
@@ -790,7 +790,7 @@ AWVS钓鱼
 
 之前给出的文章有些内容有错误,需要实践检查
 
-* [AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense) ⭐ 4,859 | 🐛 3 | 📅 2025-07-29
+* [AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense) ⭐ 4,859 | 🐛 2 | 📅 2025-07-29
 * [Intranet\_Penetration\_Tips](https://github.com/Ridter/Intranet_Penetration_Tips) ⭐ 4,612 | 🐛 0 | 📅 2023-02-24
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study) ⭐ 3,034 | 🐛 3 | 📅 2016-04-08
 * [uknowsec / Active-Directory-Pentest-Notes](https://github.com/uknowsec/Active-Directory-Pentest-Notes) ⭐ 1,808 | 🐛 3 | 📅 2020-02-07
