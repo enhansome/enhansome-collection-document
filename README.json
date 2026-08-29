@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500710
+                "stars": 500891,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -28,12 +39,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+                "homepage": null,
                 "id": 55076063,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-26T03:29:02Z",
+                "open_issues": 40,
                 "owner": "Hack-with-Github",
                 "repo": "Awesome-Hacking",
-                "stars": 119229
+                "stars": 119268,
+                "topics": [
+                  "android",
+                  "awesome",
+                  "bug-bounty",
+                  "fuzzing",
+                  "hacking",
+                  "penetration-testing",
+                  "pentesting-windows",
+                  "reverse-engineering",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -44,12 +70,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome awesomeness",
+                "homepage": null,
                 "id": 21600440,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2024-06-02T22:46:41Z",
+                "open_issues": 61,
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33633
+                "stars": 33634,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -60,12 +91,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":scream: A curated list of amazingly awesome OSINT",
+                "homepage": null,
                 "id": 75189212,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T21:17:45Z",
+                "open_issues": 9,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28556
+                "stars": 28636,
+                "topics": [
+                  "awesome-list",
+                  "osint",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -76,12 +116,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+                "homepage": null,
                 "id": 23208012,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
+                "open_issues": 316,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14802
+                "stars": 14805,
+                "topics": [
+                  "awesome-list",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -92,12 +140,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Defund the Police.",
+                "homepage": "https://gazafunds.com/",
                 "id": 35313712,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-07T05:09:47Z",
+                "open_issues": 25,
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14161
+                "stars": 14162,
+                "topics": [
+                  "analysis-framework",
+                  "automated-analysis",
+                  "awesome",
+                  "awesome-list",
+                  "chinese",
+                  "chinese-translation",
+                  "domain-analysis",
+                  "drop-ice",
+                  "dynamic-analysis",
+                  "list",
+                  "malware-analysis",
+                  "malware-collection",
+                  "malware-research",
+                  "malware-samples",
+                  "network-traffic",
+                  "static-analysis",
+                  "threat-intelligence",
+                  "threat-sharing",
+                  "threatintel"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -108,12 +181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "articles",
+                "homepage": "https://twitter.com/cry__pto",
                 "id": 194262275,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-04-03T07:40:28Z",
+                "open_issues": 28,
                 "owner": "blaCCkHatHacEEkr",
                 "repo": "PENTESTING-BIBLE",
-                "stars": 13941
+                "stars": 13942,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -124,12 +202,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐶 A curated list of Web Security materials and resources.",
+                "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
                 "id": 80358070,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T13:51:02Z",
+                "open_issues": 4,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13737
+                "stars": 13739,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "penetration-testing",
+                  "security",
+                  "web",
+                  "websecurity"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -140,12 +231,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of android security related resources",
+                "homepage": null,
                 "id": 22117770,
                 "language": "Makefile",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T18:33:19Z",
+                "open_issues": 0,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9648
+                "stars": 9649,
+                "topics": [
+                  "android",
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -156,12 +258,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑",
+                "homepage": null,
                 "id": 77290612,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-12T03:09:59Z",
+                "open_issues": 1,
                 "owner": "We5ter",
                 "repo": "Scanners-Box",
-                "stars": 9025
+                "stars": 9027,
+                "topics": [
+                  "apk-analysis",
+                  "binary-analysis",
+                  "code-analyzer",
+                  "devsecops",
+                  "exploitation-framework",
+                  "hacker-tools",
+                  "information-security",
+                  "malware-analysis",
+                  "penetration-testing",
+                  "pentesting-tools",
+                  "privacy-compliance",
+                  "redteam-tools",
+                  "security-audit",
+                  "security-automation",
+                  "smart-contracts",
+                  "static-analysis",
+                  "vulnerability-scanners",
+                  "wifi-hacking",
+                  "wifi-security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -172,12 +299,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.",
+                "homepage": "https://rmusser.net/docs",
                 "id": 23981144,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-10-20T02:12:59Z",
+                "open_issues": 4,
                 "owner": "rmusser01",
                 "repo": "Infosec_Reference",
-                "stars": 5987
+                "stars": 5987,
+                "topics": [
+                  "blueteam",
+                  "forensics",
+                  "hacking",
+                  "hacking-simulator",
+                  "hacktoberfest",
+                  "hacktoberfest2021",
+                  "information-security",
+                  "infosec",
+                  "infosec-reference",
+                  "linux",
+                  "osx",
+                  "penetration-testing",
+                  "pentesting",
+                  "privilege-escalation",
+                  "privilege-escalation-exploits",
+                  "red-team",
+                  "references",
+                  "reverse-engineering",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -188,12 +340,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web-Security-Learning",
+                "homepage": "https://chybeta.github.io/2017/08/19/Web-Security-Learning/",
                 "id": 100763890,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2021-10-02T15:30:54Z",
+                "open_issues": 7,
                 "owner": "CHYbeta",
                 "repo": "Web-Security-Learning",
-                "stars": 4299
+                "stars": 4299,
+                "topics": [
+                  "security",
+                  "sqlinjection",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -204,12 +365,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collected list of awesome security talks",
+                "homepage": null,
                 "id": 49948104,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-17T13:14:58Z",
+                "open_issues": 0,
                 "owner": "PaulSec",
                 "repo": "awesome-sec-talks",
-                "stars": 4231
+                "stars": 4231,
+                "topics": [
+                  "conferences",
+                  "hacking",
+                  "infosec",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -220,12 +391,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome curated lists of many topics.",
+                "homepage": null,
                 "id": 21388604,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-07-31T23:19:05Z",
+                "open_issues": 25,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3204
+                "stars": 3203,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -236,12 +415,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Collection of Hacks in IoT Space so that we can address them (hopefully).",
+                "homepage": null,
                 "id": 42153998,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-05-16T21:18:59Z",
+                "open_issues": 3,
                 "owner": "nebgnahz",
                 "repo": "awesome-iot-hacks",
-                "stars": 2425
+                "stars": 2425,
+                "topics": [
+                  "awesome",
+                  "hack",
+                  "iot",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -252,12 +441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "个人准备渗透测试和安全面试的经验之谈，和去部分厂商的面试题，干货真的满满~",
+                "homepage": null,
                 "id": 171972017,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-22T04:10:24Z",
+                "open_issues": 3,
                 "owner": "Leezj9671",
                 "repo": "Pentest_Interview",
-                "stars": 2001
+                "stars": 2001,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -268,12 +462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)",
+                "homepage": null,
                 "id": 171453149,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-23T07:32:25Z",
+                "open_issues": 4,
                 "owner": "tanjiti",
                 "repo": "sec_profile",
-                "stars": 1604
+                "stars": 1604,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -284,12 +483,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。",
+                "homepage": "http://euphrat1ca.github.io/security_w1k1/",
                 "id": 116219821,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-05T17:03:14Z",
+                "open_issues": 4,
                 "owner": "euphrat1ca",
                 "repo": "Security-List",
-                "stars": 1529
+                "stars": 1529,
+                "topics": [
+                  "checklist",
+                  "geek",
+                  "kali",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -300,12 +509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "some learning notes about Android Security",
+                "homepage": null,
                 "id": 87615481,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-07-14T07:00:45Z",
+                "open_issues": 0,
                 "owner": "JnuSimba",
                 "repo": "AndroidSecNotes",
-                "stars": 1352
+                "stars": 1352,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -316,12 +530,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "python安全和代码审计相关资料收集 resource collection of python security and code review",
+                "homepage": null,
                 "id": 106677894,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-08-06T02:31:28Z",
+                "open_issues": 2,
                 "owner": "bit4woo",
                 "repo": "python_sec",
-                "stars": 1352
+                "stars": 1352,
+                "topics": [
+                  "code-review",
+                  "dangerous-python-functions",
+                  "django",
+                  "python",
+                  "python-django",
+                  "python-security",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -332,12 +559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software-Security-Learning",
+                "homepage": "https://chybeta.github.io/2017/08/19/Software-Security-Learning/",
                 "id": 100763899,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-08-31T23:17:48Z",
+                "open_issues": 3,
                 "owner": "CHYbeta",
                 "repo": "Software-Security-Learning",
-                "stars": 1279
+                "stars": 1279,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -348,12 +580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "some learning notes about Web Application Security、 Penetration Test",
+                "homepage": null,
                 "id": 111658543,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-09-14T04:25:01Z",
+                "open_issues": 0,
                 "owner": "JnuSimba",
                 "repo": "MiscSecNotes",
-                "stars": 922
+                "stars": 923,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -364,12 +601,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "some learning notes about Linux Security",
+                "homepage": null,
                 "id": 90690460,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-04-03T04:01:57Z",
+                "open_issues": 1,
                 "owner": "JnuSimba",
                 "repo": "LinuxSecNotes",
-                "stars": 454
+                "stars": 454,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -380,12 +622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送",
+                "homepage": null,
                 "id": 272467825,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-22T22:45:32Z",
+                "open_issues": 7,
                 "owner": "404notf0und",
                 "repo": "CVE-Flow",
-                "stars": 174
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -403,12 +650,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete computer science study plan to become a software engineer.",
+                "homepage": null,
                 "id": 60493101,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-08-28T14:42:47Z",
+                "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359895
+                "stars": 359923,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "coding-interview",
+                  "coding-interviews",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-prep",
+                  "interview-preparation",
+                  "programming-interviews",
+                  "software-engineering",
+                  "study-plan"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -419,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python - 100天从新手到大师",
+                "homepage": null,
                 "id": 123458551,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-07-29T15:18:29Z",
+                "open_issues": 714,
                 "owner": "jackfrued",
                 "repo": "Python-100-Days",
-                "stars": 185704
+                "stars": 185706,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -435,12 +705,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+                "homepage": "http://cyc2018.xyz",
                 "id": 121395510,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-21T09:40:10Z",
+                "open_issues": 196,
                 "owner": "CyC2018",
                 "repo": "CS-Notes",
-                "stars": 185697
+                "stars": 185697,
+                "topics": [
+                  "algorithm",
+                  "computer-science",
+                  "cpp",
+                  "interview",
+                  "java",
+                  "leetcode",
+                  "python",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -451,12 +735,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+                "homepage": "https://javaguide.cn",
                 "id": 132464395,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T08:06:36Z",
+                "open_issues": 17,
                 "owner": "Snailclimb",
                 "repo": "JavaGuide",
-                "stars": 158100
+                "stars": 158104,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "context-engineering",
+                  "deepseek",
+                  "interview",
+                  "java",
+                  "mcp",
+                  "mysql",
+                  "redis",
+                  "redisson",
+                  "skills",
+                  "springai",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -467,12 +770,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated coding interview preparation materials for busy software engineers",
+                "homepage": "https://www.techinterviewhandbook.org",
                 "id": 62607227,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T12:06:42Z",
+                "open_issues": 35,
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 142264
+                "stars": 142270,
+                "topics": [
+                  "algorithm",
+                  "algorithm-interview",
+                  "algorithm-interview-questions",
+                  "algorithms",
+                  "behavioral-interviews",
+                  "coding-interviews",
+                  "interview-practice",
+                  "interview-preparation",
+                  "interview-questions",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -483,12 +802,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crack LeetCode, not only how, but also why. ",
+                "homepage": "https://labuladong.online/",
                 "id": 241576270,
                 "language": "Markdown",
+                "license": null,
                 "last_commit": "2026-02-28T10:07:31Z",
+                "open_issues": 0,
                 "owner": "labuladong",
                 "repo": "fucking-algorithm",
-                "stars": 135480
+                "stars": 135486,
+                "topics": [
+                  "algorithms",
+                  "computer-science",
+                  "data-structures",
+                  "dynamic-programming",
+                  "dynamic-programming-algorithm",
+                  "interview-questions",
+                  "kmp",
+                  "leetcode"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -499,12 +832,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+                "homepage": "https://java.doocs.org",
                 "id": 151834062,
                 "language": "Java",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-24T12:26:20Z",
+                "open_issues": 0,
                 "owner": "doocs",
                 "repo": "advanced-java",
-                "stars": 79086
+                "stars": 79088,
+                "topics": [
+                  "advanced-java",
+                  "distributed-search-engine",
+                  "distributed-systems",
+                  "doocs",
+                  "dubbo",
+                  "elasticsearch",
+                  "eureka",
+                  "feign",
+                  "high-availability",
+                  "high-concurrency",
+                  "hystrix",
+                  "java",
+                  "message-queue",
+                  "microservices-architecture",
+                  "redis",
+                  "ribbon",
+                  "rpc",
+                  "spring-cloud",
+                  "springcloud-config",
+                  "zookeeper"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -515,12 +874,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of learning resources for curious software engineers",
+                "homepage": null,
                 "id": 45723377,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-15T15:55:09Z",
+                "open_issues": 6,
                 "owner": "charlax",
                 "repo": "professional-programming",
-                "stars": 51452
+                "stars": 51456,
+                "topics": [
+                  "architecture",
+                  "computer-science",
+                  "concepts",
+                  "documentation",
+                  "engineer",
+                  "learning",
+                  "lessons-learned",
+                  "professional",
+                  "programmer",
+                  "programming-language",
+                  "read-articles",
+                  "scalability",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -531,12 +909,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+                "homepage": null,
                 "id": 191113739,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-22T09:39:06Z",
+                "open_issues": 35,
                 "owner": "0voice",
                 "repo": "interview_internal_reference",
-                "stars": 37245
+                "stars": 37244,
+                "topics": [
+                  "cpu",
+                  "high-performance",
+                  "interview",
+                  "mongodb",
+                  "mysql",
+                  "network",
+                  "nginx",
+                  "redis",
+                  "storage",
+                  "zookeeper"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -547,12 +941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "数据结构和算法必知必会的50个代码实现",
+                "homepage": null,
                 "id": 150058902,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-21T07:31:34Z",
+                "open_issues": 160,
                 "owner": "wangzheng0822",
                 "repo": "algo",
-                "stars": 23135
+                "stars": 23134,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -563,12 +962,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "技术面试最后反问面试官的话",
+                "homepage": null,
                 "id": 207837082,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-04T15:39:50Z",
+                "open_issues": 15,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18517
+                "stars": 18517,
+                "topics": [
+                  "interview",
+                  "interview-questions",
+                  "reverse-interview"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -579,12 +987,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "关于Python的面试题",
+                "homepage": null,
                 "id": 33428461,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2025-03-05T09:14:51Z",
+                "open_issues": 34,
                 "owner": "taizilongxu",
                 "repo": "interview_python",
-                "stars": 17373
+                "stars": 17373,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -595,12 +1008,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Cheat Sheet",
+                "homepage": "https://pythonsheets.com",
                 "id": 52760178,
                 "language": "Python",
-                "last_commit": "2026-08-28T08:41:19Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:02:42Z",
+                "open_issues": 11,
                 "owner": "crazyguitar",
                 "repo": "pysheeet",
-                "stars": 8151
+                "stars": 8151,
+                "topics": [
+                  "cheatsheet",
+                  "python",
+                  "python-2",
+                  "python-3"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -611,12 +1034,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "计算机学科基础知识和主流编程语言相关内容的总结",
+                "homepage": null,
                 "id": 54698436,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-09-24T01:23:39Z",
+                "open_issues": 12,
                 "owner": "selfboot",
                 "repo": "CS_Offer",
-                "stars": 2243
+                "stars": 2243,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "data-structures",
+                  "database",
+                  "linux",
+                  "network",
+                  "offer",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -627,12 +1064,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "《Python 3 源码剖析》",
+                "homepage": "https://flaggo.github.io/python3-source-code-analysis/",
                 "id": 142458558,
                 "language": "Vue",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-06T01:44:01Z",
+                "open_issues": 0,
                 "owner": "flaggo",
                 "repo": "python3-source-code-analysis",
-                "stars": 1006
+                "stars": 1006,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -643,12 +1085,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "个人博客: Web, JavaScript, NodeJs, Webpack ...",
+                "homepage": null,
                 "id": 135373247,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-11-14T08:05:53Z",
+                "open_issues": 2,
                 "owner": "deepraining",
                 "repo": "blogs",
-                "stars": 752
+                "stars": 752,
+                "topics": [
+                  "blogs",
+                  "javascript",
+                  "nodejs",
+                  "web",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -659,12 +1112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "我的学习空间: 笔记, 备忘, 刷题, 代码",
+                "homepage": null,
                 "id": 1015936670,
                 "language": "Python",
-                "last_commit": "2026-08-28T05:08:37Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:05:52Z",
+                "open_issues": 0,
                 "owner": "imhuay",
                 "repo": "sspace",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -682,12 +1140,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+                "homepage": "https://git.io/macx",
                 "id": 63539055,
                 "language": "Swift",
-                "last_commit": "2026-08-28T01:19:31Z",
+                "license": "CC0-1.0",
+                "last_commit": "2026-08-29T01:11:07Z",
+                "open_issues": 756,
                 "owner": "jaywcjlove",
                 "repo": "awesome-mac",
-                "stars": 111998
+                "stars": 112039,
+                "topics": [
+                  "app",
+                  "apple",
+                  "application",
+                  "apps",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "awesome-mac",
+                  "desktop-app",
+                  "desktop-application",
+                  "desktop-apps",
+                  "list",
+                  "mac",
+                  "mac-osx",
+                  "macos",
+                  "macos-app",
+                  "macos-apps",
+                  "macosx",
+                  "software"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -698,12 +1181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "科技爱好者周刊，每周五发布",
+                "homepage": null,
                 "id": 152870372,
                 "language": null,
-                "last_commit": "2026-08-28T00:03:17Z",
+                "license": null,
+                "last_commit": "2026-08-28T15:22:35Z",
+                "open_issues": 8855,
                 "owner": "ruanyf",
                 "repo": "weekly",
-                "stars": 101458
+                "stars": 101494,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -714,12 +1202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+                "homepage": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
                 "id": 3482588,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:51:06Z",
+                "open_issues": 13,
                 "owner": "danielmiessler",
                 "repo": "SecLists",
-                "stars": 73130
+                "stars": 73142,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -730,12 +1223,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.",
+                "homepage": null,
                 "id": 122692377,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2022-02-28T10:57:30Z",
+                "open_issues": 103,
                 "owner": "houshanren",
                 "repo": "hangzhou_house_knowledge",
-                "stars": 26869
+                "stars": 26869,
+                "topics": [
+                  "hangzhou",
+                  "knowledge"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -746,12 +1247,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中国程序员容易发音错误的单词",
+                "homepage": null,
                 "id": 82040650,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-12-29T00:34:55Z",
+                "open_issues": 139,
                 "owner": "shimohq",
                 "repo": "chinese-programmer-wrong-pronunciation",
-                "stars": 23269
+                "stars": 23269,
+                "topics": [
+                  "chinese-programmers",
+                  "documentation",
+                  "pronunciation",
+                  "spelling"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -762,12 +1273,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community guide to securing and improving privacy on macOS.",
+                "homepage": "https://drduh.github.io/macOS-Security-and-Privacy-Guide/",
                 "id": 41654081,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T03:00:01Z",
+                "open_issues": 8,
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22497
+                "stars": 22499,
+                "topics": [
+                  "apple",
+                  "checklist",
+                  "disk-encryption",
+                  "guide",
+                  "guides",
+                  "hardening",
+                  "information-security",
+                  "infosec",
+                  "macbook-configuration",
+                  "macos",
+                  "macos-security",
+                  "macos-setup",
+                  "opsec",
+                  "osx",
+                  "privacy",
+                  "security",
+                  "sysadmin"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -778,12 +1312,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  A curated list of awesome applications, softwares, tools and shiny things for macOS.",
+                "homepage": null,
                 "id": 36241619,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-23T18:27:23Z",
+                "open_issues": 75,
                 "owner": "iCHAIT",
                 "repo": "awesome-macOS",
-                "stars": 19098
+                "stars": 19102,
+                "topics": [
+                  "apple",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "list",
+                  "mac",
+                  "macos"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -794,12 +1341,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "专为程序员编写的英语学习指南 v1.2。在线版本请点 ->",
+                "homepage": "https://a-programmers-guide-to-english.harryyu.me/",
                 "id": 141766302,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-01-28T07:48:04Z",
+                "open_issues": 9,
                 "owner": "yujiangshui",
                 "repo": "A-Programmers-Guide-to-English",
-                "stars": 16636
+                "stars": 16637,
+                "topics": [
+                  "english",
+                  "english-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -810,12 +1365,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)",
+                "homepage": null,
                 "id": 186726606,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-06-06T06:22:30Z",
+                "open_issues": 9,
                 "owner": "nusr",
                 "repo": "hacker-laws-zh",
-                "stars": 12504
+                "stars": 12503,
+                "topics": [
+                  "chinese",
+                  "coding",
+                  "computerscience",
+                  "laws",
+                  "principles"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -826,12 +1392,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of resources for learning about application security",
+                "homepage": "https://paragonie.com/projects",
                 "id": 34877308,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-02-22T16:39:11Z",
+                "open_issues": 40,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7046
+                "stars": 7046,
+                "topics": [
+                  "application-security",
+                  "curated",
+                  "owasp",
+                  "reading-list",
+                  "security",
+                  "security-experts"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -842,12 +1420,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "逃离996",
+                "homepage": "https://623637646.github.io/996.Leave/",
                 "id": 179322398,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-01-15T12:53:02Z",
+                "open_issues": 58,
                 "owner": "623637646",
                 "repo": "996.Leave",
-                "stars": 6656
+                "stars": 6656,
+                "topics": [
+                  "996",
+                  "996icu",
+                  "996leave",
+                  "icu",
+                  "leave"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -858,12 +1447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "安全思维导图集合",
+                "homepage": "https://www.sec-wiki.com",
                 "id": 42011758,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-09-02T12:20:18Z",
+                "open_issues": 3,
                 "owner": "SecWiki",
                 "repo": "sec-chart",
-                "stars": 6498
+                "stars": 6499,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -874,12 +1468,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A curated list of awesome infosec courses and training resources.",
+                "homepage": null,
                 "id": 35577029,
                 "language": null,
-                "last_commit": "2026-08-15T16:05:29Z",
+                "license": null,
+                "last_commit": "2026-08-28T15:30:27Z",
+                "open_issues": 15,
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5728
+                "stars": 5728,
+                "topics": [
+                  "awesome",
+                  "courses",
+                  "infosec",
+                  "lab",
+                  "penetration-testing",
+                  "pentest",
+                  "security",
+                  "security-professionals"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -890,12 +1498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。",
+                "homepage": null,
                 "id": 311856585,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-07-23T05:36:57Z",
+                "open_issues": 1,
                 "owner": "ayuer",
                 "repo": "shanghai_house_knowledge",
-                "stars": 5105
+                "stars": 5105,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -906,12 +1519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "各种安全相关思维导图整理收集",
+                "homepage": null,
                 "id": 41851894,
                 "language": null,
+                "license": "GPL-2.0",
                 "last_commit": "2023-12-22T07:41:29Z",
+                "open_issues": 3,
                 "owner": "phith0n",
                 "repo": "Mind-Map",
-                "stars": 4602
+                "stars": 4602,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -922,12 +1540,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome YARA rules, tools, and people.",
+                "homepage": null,
                 "id": 101214787,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-15T19:57:31Z",
+                "open_issues": 1,
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4265
+                "stars": 4264,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-yara",
+                  "ioc",
+                  "malware-analysis",
+                  "malware-detection",
+                  "malware-research",
+                  "malware-rules",
+                  "threat-hunting",
+                  "yara",
+                  "yara-manager",
+                  "yara-rules",
+                  "yara-scanner",
+                  "yara-signatures"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -938,12 +1576,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git All the Payloads! A collection of web attack payloads.",
+                "homepage": null,
                 "id": 52228925,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-15T21:54:24Z",
+                "open_issues": 4,
                 "owner": "foospidy",
                 "repo": "payloads",
-                "stars": 3980
+                "stars": 3980,
+                "topics": [
+                  "appsec",
+                  "cybersecurity",
+                  "hacking",
+                  "passwords",
+                  "payload",
+                  "payloads",
+                  "pentest",
+                  "sqli",
+                  "web-attack-payloads",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -954,12 +1608,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "信息安全从业者书单推荐",
+                "homepage": null,
                 "id": 126137113,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-21T09:11:45Z",
+                "open_issues": 4,
                 "owner": "riusksk",
                 "repo": "secbook",
-                "stars": 3225
+                "stars": 3225,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -970,12 +1629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "网络安全类公众号推荐，欢迎大家推荐",
+                "homepage": null,
                 "id": 107497649,
                 "language": null,
-                "last_commit": "2026-08-28T00:30:42Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T00:30:42Z",
+                "open_issues": 5,
                 "owner": "DropsOfZut",
                 "repo": "awesome-security-weixin-official-accounts",
-                "stars": 2262
+                "stars": 2262,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -986,12 +1650,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A big list of Android Hackerone disclosed reports and other resources. ",
+                "homepage": null,
                 "id": 111239706,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-10T21:34:51Z",
+                "open_issues": 0,
                 "owner": "B3nac",
                 "repo": "Android-Reports-and-Resources",
-                "stars": 1707
+                "stars": 1708,
+                "topics": [
+                  "android",
+                  "android-repo",
+                  "android-resource",
+                  "android-security",
+                  "bugbounty",
+                  "bypass",
+                  "hackerone",
+                  "infosec",
+                  "insecure-data-storage",
+                  "intercept-broadcasts",
+                  "steal-files",
+                  "webview",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -1002,12 +1685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "租房要点，适用于北上广深杭，欢迎补充。",
+                "homepage": "https://www.v2ex.com/t/154514",
                 "id": 28090663,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-10-08T13:28:37Z",
+                "open_issues": 0,
                 "owner": "soulteary",
                 "repo": "tenant-point",
-                "stars": 1646
+                "stars": 1646,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -1018,12 +1706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2018-2020青年安全圈-活跃技术博主/博客",
+                "homepage": null,
                 "id": 181874090,
                 "language": "TSQL",
+                "license": null,
                 "last_commit": "2020-03-13T07:45:12Z",
+                "open_issues": 1,
                 "owner": "404notf0und",
                 "repo": "Security-Data-Analysis-and-Visualization",
-                "stars": 780
+                "stars": 780,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -1034,12 +1727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "面向北京码农同胞的从0开始的买房踩盘实录，目标只有一个: 每一分钱都花的明白(持续补充和完善ing…)",
+                "homepage": null,
                 "id": 288620227,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-01-01T15:54:51Z",
+                "open_issues": 1,
                 "owner": "yangyiRunning",
                 "repo": "Beijing-House",
-                "stars": 598
+                "stars": 598,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -1063,12 +1761,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome security hardening guides, tools and other resources",
+                "homepage": null,
                 "id": 184064793,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-05T21:38:04Z",
+                "open_issues": 125,
                 "owner": "decalage2",
                 "repo": "awesome-security-hardening",
-                "stars": 6527
+                "stars": 6529,
+                "topics": [
+                  "awesome-list",
+                  "best-practices",
+                  "blue-team",
+                  "blueteam",
+                  "cis-benchmarks",
+                  "computer-security",
+                  "cyber-security",
+                  "cybersecurity",
+                  "infosec",
+                  "linux-hardening",
+                  "security",
+                  "security-hardening",
+                  "security-tools",
+                  "windows-hardening"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -1079,12 +1797,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "404 Not Found的知识库：计算机理论基础、计算机技术基础、底层研究、安全技术、安全研究、人工智能、企业安全建设、安全发展、职业规划、综合素质、国内外优秀技术人",
+                "homepage": null,
                 "id": 165395044,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-05-23T13:09:41Z",
+                "open_issues": 0,
                 "owner": "404notf0und",
                 "repo": "Always-Learning",
-                "stars": 533
+                "stars": 533,
+                "topics": [
+                  "artificial-intelligence",
+                  "future",
+                  "knowledgedatabase",
+                  "research",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -1095,12 +1824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "记录我的安全学术学习",
+                "homepage": null,
                 "id": 220981736,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-15T11:58:24Z",
+                "open_issues": 0,
                 "owner": "donot-wong",
                 "repo": "SecAcademic",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -1120,12 +1854,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Qemu  KVM(Kernel Virtual Machine)学习笔记",
+                    "homepage": null,
                     "id": 138052940,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2022-12-13T09:09:03Z",
+                    "open_issues": 4,
                     "owner": "yifengyou",
                     "repo": "learn-kvm",
-                    "stars": 1330
+                    "stars": 1330,
+                    "topics": [
+                      "hypervisor",
+                      "kernel",
+                      "kvm",
+                      "qemu",
+                      "virsh",
+                      "virtualization",
+                      "vmx"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1143,12 +1890,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of quality safety articles. Awesome articles.  ",
+                    "homepage": "https://tom0li.github.io/",
                     "id": 102005234,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-09-26T00:57:16Z",
+                    "open_issues": 0,
                     "owner": "tom0li",
                     "repo": "collection-document",
-                    "stars": 2116
+                    "stars": 2116,
+                    "topics": [
+                      "awesome",
+                      "bounty-hunters",
+                      "bug-bounty",
+                      "cloud",
+                      "dns",
+                      "fuzz",
+                      "github",
+                      "hacker",
+                      "hacking",
+                      "java",
+                      "list",
+                      "pentest",
+                      "redteam",
+                      "research",
+                      "sec",
+                      "security",
+                      "src",
+                      "waf",
+                      "web",
+                      "xss"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1166,12 +1939,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kubernetes security notes and best practices",
+                    "homepage": null,
                     "id": 197130331,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2022-04-15T10:38:14Z",
+                    "open_issues": 3,
                     "owner": "kabachook",
                     "repo": "k8s-security",
-                    "stars": 731
+                    "stars": 731,
+                    "topics": [
+                      "attacker",
+                      "best-practices",
+                      "checklist",
+                      "kubernetes",
+                      "kubernetes-cluster",
+                      "kubernetes-security",
+                      "security",
+                      "vulnerabilities"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1182,12 +1969,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.",
+                    "homepage": null,
                     "id": 165110213,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2022-05-05T06:10:36Z",
+                    "open_issues": 5,
                     "owner": "puresec",
                     "repo": "awesome-serverless-security",
-                    "stars": 636
+                    "stars": 636,
+                    "topics": [
+                      "awesome",
+                      "aws-lambda",
+                      "azure-function-apps",
+                      "google-cloud-functions",
+                      "ibm-cloud-functions",
+                      "security",
+                      "serverless-applications",
+                      "serverless-architectures"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1210,12 +2011,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "安全场景、基于AI的安全算法和安全数据分析业界实践",
+                "homepage": null,
                 "id": 155810633,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-07-28T09:46:51Z",
+                "open_issues": 0,
                 "owner": "404notf0und",
                 "repo": "AI-for-Security-Learning",
-                "stars": 1772
+                "stars": 1772,
+                "topics": [
+                  "data-analysis",
+                  "data-mining",
+                  "machine-learning",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -1226,12 +2037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial Threat Landscape for AI Systems",
+                "homepage": "https://atlas.mitre.org",
                 "id": 304323992,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-27T16:51:42Z",
+                "open_issues": 4,
                 "owner": "mitre",
                 "repo": "advmlthreatmatrix",
-                "stars": 1110
+                "stars": 1110,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -1242,12 +2058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "自身学习的安全数据科学和算法的学习资料",
+                "homepage": null,
                 "id": 171104826,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-07-26T08:08:26Z",
+                "open_issues": 0,
                 "owner": "0xMJ",
                 "repo": "AI-Security-Learning",
-                "stars": 640
+                "stars": 640,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -1267,12 +2088,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.",
+                    "homepage": null,
                     "id": 259131257,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-10-26T19:06:54Z",
+                    "open_issues": 43,
                     "owner": "mandatoryprogrammer",
                     "repo": "CursedChrome",
-                    "stars": 1728
+                    "stars": 1728,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1290,12 +2116,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An authoritative list of awesome devsecops tools with the help from community experiments and contributions.",
+                    "homepage": "http://devsecops.org",
                     "id": 43963567,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2024-05-11T17:48:07Z",
+                    "open_issues": 83,
                     "owner": "devsecops",
                     "repo": "awesome-devsecops",
-                    "stars": 5460
+                    "stars": 5460,
+                    "topics": [
+                      "devops",
+                      "devsecops",
+                      "podcast",
+                      "threat-intelligence"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1320,12 +2156,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "绕过专业工具检测的Webshell研究文章和免杀的Webshell",
+                    "homepage": null,
                     "id": 133659495,
                     "language": "Classic ASP",
+                    "license": null,
                     "last_commit": "2020-11-15T11:45:49Z",
+                    "open_issues": 78,
                     "owner": "LandGrey",
                     "repo": "webshell-detect-bypass",
-                    "stars": 1737
+                    "stars": 1737,
+                    "topics": [
+                      "asp-webshell",
+                      "backdoor",
+                      "bypass-antivirus",
+                      "detection-bypass",
+                      "hidden-shells",
+                      "jsp-webshell",
+                      "php-webshell",
+                      "php-webshells",
+                      "webshell"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1336,12 +2187,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "总结了免杀webshell的方法论",
+                    "homepage": null,
                     "id": 280046223,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-07-23T09:37:20Z",
+                    "open_issues": 0,
                     "owner": "qiyeboy",
                     "repo": "kill_webshell_detect",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1359,12 +2215,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open EDR public repository",
+                    "homepage": null,
                     "id": 308137876,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-23T23:36:21Z",
+                    "open_issues": 37,
                     "owner": "ComodoSecurity",
                     "repo": "openedr",
-                    "stars": 2717
+                    "stars": 2716,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1382,12 +2243,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.",
+                    "homepage": null,
                     "id": 278176624,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-07-05T17:04:57Z",
+                    "open_issues": 1,
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1210
+                    "stars": 1210,
+                    "topics": [
+                      "antivirus",
+                      "antivirus-evasion",
+                      "exploit",
+                      "exploit-development",
+                      "exploit-framework",
+                      "exploitation",
+                      "exploits",
+                      "process-doppelganging",
+                      "process-herpaderping",
+                      "process-hollowing",
+                      "process-migration",
+                      "security",
+                      "security-vulnerability",
+                      "vulnerability",
+                      "windows",
+                      "windows-10",
+                      "windows-7",
+                      "windows-defender"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1398,12 +2283,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Anti-virus artifacts. Listing APIs hooked by: Avira, BitDefender, F-Secure, MalwareBytes, Norton, TrendMicro, and WebRoot.",
+                    "homepage": null,
                     "id": 322123427,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-11-16T15:45:23Z",
+                    "open_issues": 0,
                     "owner": "ethereal-vx",
                     "repo": "Antivirus-Artifacts",
-                    "stars": 755
+                    "stars": 755,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1421,12 +2311,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "an awesome list of honeypot resources",
+                    "homepage": null,
                     "id": 37659549,
                     "language": "Python",
+                    "license": "Artistic-2.0",
                     "last_commit": "2026-06-01T14:15:45Z",
+                    "open_issues": 23,
                     "owner": "paralax",
                     "repo": "awesome-honeypots",
-                    "stars": 10535
+                    "stars": 10537,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "honeyd",
+                      "honeypot",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1444,12 +2345,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Malicious traffic detection system",
+                    "homepage": "https://www.sekuripy.hr/labs/maltrail/",
                     "id": 27561102,
                     "language": "Python",
-                    "last_commit": "2026-08-28T11:55:52Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T22:24:13Z",
+                    "open_issues": 24,
                     "owner": "stamparm",
                     "repo": "maltrail",
-                    "stars": 8587
+                    "stars": 8588,
+                    "topics": [
+                      "attack-detection",
+                      "intrusion-detection",
+                      "malware",
+                      "network-monitoring",
+                      "python",
+                      "rust",
+                      "security",
+                      "sensor"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1474,12 +2389,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "网络空间测绘/搜索引擎相关的资料",
+                    "homepage": null,
                     "id": 351036940,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-09-24T09:32:21Z",
+                    "open_issues": 0,
                     "owner": "EXHades",
                     "repo": "CyberSpaceSearchEngine-Research",
-                    "stars": 201
+                    "stars": 201,
+                    "topics": [
+                      "cybersecurity",
+                      "cyberspacesearchengine",
+                      "internet-scanning",
+                      "scanner"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1502,12 +2427,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Information Protection & OSINT resources | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗",
+                "homepage": null,
                 "id": 195766483,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-10-09T09:48:34Z",
+                "open_issues": 0,
                 "owner": "ffffffff0x",
                 "repo": "Digital-Privacy",
-                "stars": 4945
+                "stars": 4944,
+                "topics": [
+                  "ffffffff0x",
+                  "osint",
+                  "privacy",
+                  "privacy-policy",
+                  "privacy-protection",
+                  "search-engine",
+                  "surveillance"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -1527,12 +2465,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wiki to collect Red Team infrastructure hardening resources",
+                    "homepage": null,
                     "id": 82987976,
                     "language": null,
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-10-01T17:10:58Z",
+                    "open_issues": 0,
                     "owner": "bluscreenofjeff",
                     "repo": "Red-Team-Infrastructure-Wiki",
-                    "stars": 4520
+                    "stars": 4520,
+                    "topics": [
+                      "cobalt-strike",
+                      "empire",
+                      "infrastructure",
+                      "pentesting",
+                      "red-team",
+                      "redirector"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1543,12 +2493,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "APT & CyberCriminal Campaign Collection",
+                    "homepage": null,
                     "id": 81636686,
                     "language": "YARA",
+                    "license": null,
                     "last_commit": "2024-07-25T14:28:39Z",
+                    "open_issues": 0,
                     "owner": "CyberMonitor",
                     "repo": "APT_CyberCriminal_Campagin_Collections",
-                    "stars": 4098
+                    "stars": 4099,
+                    "topics": [
+                      "apt"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1566,12 +2523,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Six Degrees of Domain Admin",
+                    "homepage": null,
                     "id": 56452110,
                     "language": "PowerShell",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-02T18:29:31Z",
+                    "open_issues": 93,
                     "owner": "SpecterOps",
                     "repo": "BloodHound-Legacy",
-                    "stars": 10606
+                    "stars": 10606,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1589,12 +2551,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Remote Administration Tool for Windows",
+                    "homepage": null,
                     "id": 21611723,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-02-29T06:37:37Z",
+                    "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9909
+                    "stars": 9909,
+                    "topics": [
+                      "administration",
+                      "c-sharp",
+                      "dotnet",
+                      "mono",
+                      "net",
+                      "protobuf",
+                      "rat",
+                      "red-team",
+                      "remote",
+                      "remote-control",
+                      "remote-desktop",
+                      "security",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1623,12 +2604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenSource My ImageMagick Fuzzer ..",
+                "homepage": null,
                 "id": 97681609,
                 "language": "Mask",
+                "license": null,
                 "last_commit": "2017-07-26T03:59:25Z",
+                "open_issues": 8,
                 "owner": "lcatro",
                 "repo": "Fuzzing-ImageMagick",
-                "stars": 296
+                "stars": 296,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -1646,12 +2632,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
+                "homepage": null,
                 "id": 62374656,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-04-03T07:04:46Z",
+                "open_issues": 10,
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
-                "stars": 5905
+                "stars": 5905,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "fuzzing",
+                  "fuzzing-framework",
+                  "secfigo"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -1673,12 +2670,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java web common vulnerabilities and security code which is base on springboot and spring security",
+            "homepage": null,
             "id": 115394871,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-12-02T20:14:27Z",
+            "open_issues": 7,
             "owner": "JoyChou93",
             "repo": "java-sec-code",
-            "stars": 2674
+            "stars": 2674,
+            "topics": [
+              "benchmark",
+              "code",
+              "cors",
+              "deserialize",
+              "java",
+              "jsonp",
+              "rce",
+              "rmi",
+              "security",
+              "spel",
+              "sqli",
+              "ssrf",
+              "tomcat",
+              "web",
+              "xxe"
+            ]
           },
           "first_seen": "2026-08-28T12:09:06.810Z"
         },
@@ -1691,12 +2709,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The cheat sheet about Java Deserialization vulnerabilities",
+                "homepage": null,
                 "id": 52396258,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-26T15:18:01Z",
+                "open_issues": 3,
                 "owner": "GrrrDog",
                 "repo": "Java-Deserialization-Cheat-Sheet",
-                "stars": 3182
+                "stars": 3182,
+                "topics": [
+                  "java-deserialization",
+                  "javadeser",
+                  "pentesting"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -1714,12 +2741,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Solr Injection Research",
+                "homepage": null,
                 "id": 199868095,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-01-28T17:20:30Z",
+                "open_issues": 0,
                 "owner": "veracode-research",
                 "repo": "solr-injection",
-                "stars": 580
+                "stars": 580,
+                "topics": [
+                  "hacking",
+                  "pentest",
+                  "research",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -1730,12 +2767,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Solr Injection Research",
+                "homepage": null,
                 "id": 199868095,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-01-28T17:20:30Z",
+                "open_issues": 0,
                 "owner": "veracode-research",
                 "repo": "solr-injection",
-                "stars": 580
+                "stars": 580,
+                "topics": [
+                  "hacking",
+                  "pentest",
+                  "research",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -1755,12 +2802,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+                    "homepage": null,
                     "id": 265513067,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2021-03-10T13:03:25Z",
+                    "open_issues": 5,
                     "owner": "LandGrey",
                     "repo": "SpringBootVulExploit",
-                    "stars": 6143
+                    "stars": 6143,
+                    "topics": [
+                      "rce",
+                      "spring-actuator-vulnerability",
+                      "spring-boot-vulnerability",
+                      "spring-vulnerability",
+                      "springboot",
+                      "springboot-actuator-rce",
+                      "springcloud",
+                      "vulnerability"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1791,12 +2852,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of awesome penetration testing resources, tools and other shiny things",
+                    "homepage": null,
                     "id": 22585805,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-07-25T12:15:45Z",
+                    "open_issues": 105,
                     "owner": "enaqx",
                     "repo": "awesome-pentest",
-                    "stars": 27044
+                    "stars": 27049,
+                    "topics": [
+                      "awesome",
+                      "awesome-list"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1807,12 +2876,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gitbook",
+                    "homepage": "https://micro8.gitbook.io/micro8/",
                     "id": 171244365,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-04-10T14:29:11Z",
+                    "open_issues": 17,
                     "owner": "Micropoor",
                     "repo": "Micro8",
-                    "stars": 18056
+                    "stars": 18056,
+                    "topics": [
+                      "micro8",
+                      "micropoor",
+                      "penetration"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1823,12 +2901,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Collection of the cheat sheets useful for pentesting",
+                    "homepage": null,
                     "id": 75025071,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-02-16T13:38:52Z",
+                    "open_issues": 2,
                     "owner": "coreb1t",
                     "repo": "awesome-pentest-cheat-sheets",
-                    "stars": 4364
+                    "stars": 4364,
+                    "topics": [
+                      "awesome",
+                      "cheatsheet",
+                      "penetration-testing",
+                      "pentest",
+                      "pentest-cheat-sheets",
+                      "security",
+                      "security-cheat-sheets"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1839,12 +2930,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others.",
+                    "homepage": null,
                     "id": 27034707,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-09-13T13:51:04Z",
+                    "open_issues": 21,
                     "owner": "nixawk",
                     "repo": "pentest-wiki",
-                    "stars": 3752
+                    "stars": 3753,
+                    "topics": [
+                      "hacking",
+                      "pentest",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1855,12 +2955,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Red Teaming & Pentesting checklists for various engagements",
+                    "homepage": null,
                     "id": 68540571,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-07-27T12:27:33Z",
+                    "open_issues": 1,
                     "owner": "netbiosX",
                     "repo": "Checklists",
-                    "stars": 2657
+                    "stars": 2657,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1871,12 +2976,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of quality safety articles. Awesome articles.  ",
+                    "homepage": "https://tom0li.github.io/",
                     "id": 102005234,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-09-26T00:57:16Z",
+                    "open_issues": 0,
                     "owner": "tom0li",
                     "repo": "collection-document",
-                    "stars": 2116
+                    "stars": 2116,
+                    "topics": [
+                      "awesome",
+                      "bounty-hunters",
+                      "bug-bounty",
+                      "cloud",
+                      "dns",
+                      "fuzz",
+                      "github",
+                      "hacker",
+                      "hacking",
+                      "java",
+                      "list",
+                      "pentest",
+                      "redteam",
+                      "research",
+                      "sec",
+                      "security",
+                      "src",
+                      "waf",
+                      "web",
+                      "xss"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1887,12 +3018,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of quality safety articles. Awesome articles.  ",
+                    "homepage": "https://tom0li.github.io/",
                     "id": 102005234,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-09-26T00:57:16Z",
+                    "open_issues": 0,
                     "owner": "tom0li",
                     "repo": "collection-document",
-                    "stars": 2116
+                    "stars": 2116,
+                    "topics": [
+                      "awesome",
+                      "bounty-hunters",
+                      "bug-bounty",
+                      "cloud",
+                      "dns",
+                      "fuzz",
+                      "github",
+                      "hacker",
+                      "hacking",
+                      "java",
+                      "list",
+                      "pentest",
+                      "redteam",
+                      "research",
+                      "sec",
+                      "security",
+                      "src",
+                      "waf",
+                      "web",
+                      "xss"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1903,12 +3060,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "用于记录分享一些有趣的案例",
+                    "homepage": null,
                     "id": 196372463,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-01-10T09:39:19Z",
+                    "open_issues": 0,
                     "owner": "r35tart",
                     "repo": "Penetration_Testing_Case",
-                    "stars": 868
+                    "stars": 868,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1919,12 +3081,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A collection of penetration testing related sites",
+                    "homepage": null,
                     "id": 34755344,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-09-30T20:11:27Z",
+                    "open_issues": 1,
                     "owner": "rutkai",
                     "repo": "pentest-bookmarks",
-                    "stars": 291
+                    "stars": 291,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1942,12 +3109,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a summary of my study and use of Google hacking. I hope I can share it with you. If you like, please give me a star or fork it, thank you.",
+                    "homepage": null,
                     "id": 129284460,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-08-27T16:13:02Z",
+                    "open_issues": 0,
                     "owner": "K0rz3n",
                     "repo": "GoogleHacking-Page",
-                    "stars": 291
+                    "stars": 291,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1958,12 +3130,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a summary of my study and use of Google hacking. I hope I can share it with you. If you like, please give me a star or fork it, thank you.",
+                    "homepage": null,
                     "id": 129284460,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-08-27T16:13:02Z",
+                    "open_issues": 0,
                     "owner": "K0rz3n",
                     "repo": "GoogleHacking-Page",
-                    "stars": 291
+                    "stars": 291,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -1981,12 +3158,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+                    "homepage": "https://vulhub.org",
                     "id": 87699760,
                     "language": "Dockerfile",
+                    "license": "MIT",
                     "last_commit": "2026-07-22T18:03:31Z",
+                    "open_issues": 52,
                     "owner": "vulhub",
                     "repo": "vulhub",
-                    "stars": 21175
+                    "stars": 21175,
+                    "topics": [
+                      "docker",
+                      "docker-compose",
+                      "dockerfile",
+                      "vulhub",
+                      "vulnerability-environment"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -1997,12 +3185,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。",
+                    "homepage": null,
                     "id": 255509556,
                     "language": "Vue",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-09T12:58:16Z",
+                    "open_issues": 74,
                     "owner": "fofapro",
                     "repo": "vulfocus",
-                    "stars": 3493
+                    "stars": 3494,
+                    "topics": [
+                      "docker",
+                      "vulfocus",
+                      "vulfocus-docker",
+                      "vulhub",
+                      "vulnerability-environment",
+                      "writeup"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -2020,12 +3220,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                    "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                     "id": 71220757,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T07:52:21Z",
+                    "open_issues": 35,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80450
+                    "stars": 80467,
+                    "topics": [
+                      "bounty",
+                      "bugbounty",
+                      "bypass",
+                      "cheatsheet",
+                      "enumeration",
+                      "hacking",
+                      "hacktoberfest",
+                      "methodology",
+                      "payload",
+                      "payloads",
+                      "penetration-testing",
+                      "pentest",
+                      "privilege-escalation",
+                      "redteam",
+                      "security",
+                      "vulnerability",
+                      "web-application"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2036,12 +3259,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of amazingly awesome Burp Extensions",
+                    "homepage": null,
                     "id": 157096490,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-15T21:15:14Z",
+                    "open_issues": 1,
                     "owner": "snoopysecurity",
                     "repo": "awesome-burp-extensions",
-                    "stars": 3440
+                    "stars": 3440,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2052,12 +3280,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "梳理下自己之前写过的文章",
+                    "homepage": null,
                     "id": 117038938,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-07-13T03:06:54Z",
+                    "open_issues": 1,
                     "owner": "WooyunDota",
                     "repo": "DroidDrops",
-                    "stars": 400
+                    "stars": 400,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2068,12 +3301,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 111415764,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-11-20T13:47:53Z",
+                    "open_issues": 0,
                     "owner": "tom0li",
                     "repo": "security_circle",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -2096,12 +3334,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attack and defend active directory using modern post exploitation adversary tradecraft activity",
+                "homepage": null,
                 "id": 158092993,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-29T11:12:41Z",
+                "open_issues": 2,
                 "owner": "infosecn1nja",
                 "repo": "AD-Attack-Defense",
-                "stars": 4859
+                "stars": 4859,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -2112,12 +3355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2018年初整理的一些内网渗透TIPS，后面更新的慢，所以整理出来希望跟小伙伴们一起更新维护~",
+                "homepage": null,
                 "id": 168150507,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-02-24T06:58:57Z",
+                "open_issues": 0,
                 "owner": "Ridter",
                 "repo": "Intranet_Penetration_Tips",
-                "stars": 4612
+                "stars": 4612,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -2128,12 +3376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "从零开始内网渗透学习",
+                "homepage": null,
                 "id": 55684118,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-04-08T12:20:32Z",
+                "open_issues": 3,
                 "owner": "l3m0n",
                 "repo": "pentest_study",
-                "stars": 3033
+                "stars": 3033,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -2144,12 +3397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "个人域渗透学习笔记",
+                "homepage": "https://uknowsec.cn",
                 "id": 207849560,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-02-07T06:12:34Z",
+                "open_issues": 3,
                 "owner": "uknowsec",
                 "repo": "Active-Directory-Pentest-Notes",
-                "stars": 1808
+                "stars": 1808,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -2162,12 +3420,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Six Degrees of Domain Admin",
+                    "homepage": null,
                     "id": 56452110,
                     "language": "PowerShell",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-02T18:29:31Z",
+                    "open_issues": 93,
                     "owner": "SpecterOps",
                     "repo": "BloodHound-Legacy",
-                    "stars": 10606
+                    "stars": 10606,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2178,12 +3441,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zero-Day Code Injection and Persistence Technique",
+                    "homepage": null,
                     "id": 84742399,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-08-24T10:32:36Z",
+                    "open_issues": 2,
                     "owner": "Cybellum",
                     "repo": "DoubleAgent",
-                    "stars": 1262
+                    "stars": 1262,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2194,12 +3462,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of pentest and development tips",
+                    "homepage": null,
                     "id": 102674227,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-05-26T02:51:51Z",
+                    "open_issues": 2,
                     "owner": "3gstudent",
                     "repo": "Pentest-and-Development-Tips",
-                    "stars": 1126
+                    "stars": 1126,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2210,12 +3483,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 111415764,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-11-20T13:47:53Z",
+                    "open_issues": 0,
                     "owner": "tom0li",
                     "repo": "security_circle",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2226,12 +3504,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 111415764,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-11-20T13:47:53Z",
+                    "open_issues": 0,
                     "owner": "tom0li",
                     "repo": "security_circle",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2242,12 +3525,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 111415764,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-11-20T13:47:53Z",
+                    "open_issues": 0,
                     "owner": "tom0li",
                     "repo": "security_circle",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2258,12 +3546,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 111415764,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-11-20T13:47:53Z",
+                    "open_issues": 0,
                     "owner": "tom0li",
                     "repo": "security_circle",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -2281,12 +3574,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "windows-kernel-exploits   Windows平台提权漏洞集合",
+                    "homepage": null,
                     "id": 89315980,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2021-06-11T23:29:15Z",
+                    "open_issues": 10,
                     "owner": "SecWiki",
                     "repo": "windows-kernel-exploits",
-                    "stars": 8718
+                    "stars": 8720,
+                    "topics": [
+                      "collections",
+                      "exploit",
+                      "kernel",
+                      "pentest",
+                      "tool",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2297,12 +3602,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of links related to Linux kernel security and exploitation",
+                    "homepage": null,
                     "id": 73646740,
                     "language": null,
+                    "license": "CC-BY-4.0",
                     "last_commit": "2026-08-14T22:14:15Z",
+                    "open_issues": 0,
                     "owner": "xairy",
                     "repo": "linux-kernel-exploitation",
-                    "stars": 6608
+                    "stars": 6610,
+                    "topics": [
+                      "exploit",
+                      "kernel-exploitation",
+                      "linux-kernel",
+                      "privilege-escalation",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2313,12 +3629,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "linux-kernel-exploits Linux平台提权漏洞集合",
+                    "homepage": null,
                     "id": 89318964,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2020-07-13T05:02:00Z",
+                    "open_issues": 4,
                     "owner": "SecWiki",
                     "repo": "linux-kernel-exploits",
-                    "stars": 5650
+                    "stars": 5650,
+                    "topics": [
+                      "awesome",
+                      "collection",
+                      "exploit",
+                      "kernel",
+                      "linux",
+                      "pentest",
+                      "tool"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 },
@@ -2329,12 +3658,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.",
+                    "homepage": null,
                     "id": 21613236,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-05-11T12:44:55Z",
+                    "open_issues": 33,
                     "owner": "strozfriedberg",
                     "repo": "Windows-Exploit-Suggester",
-                    "stars": 4230
+                    "stars": 4230,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
                 }
@@ -2361,12 +3695,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of interesting payloads, tips and tricks for bug bounty hunters.",
+            "homepage": null,
             "id": 97145840,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-09-14T05:50:48Z",
+            "open_issues": 12,
             "owner": "EdOverflow",
             "repo": "bugbounty-cheatsheet",
-            "stars": 6536
+            "stars": 6536,
+            "topics": [
+              "bugbounty",
+              "infosec",
+              "payloads",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T12:09:06.810Z"
         },
@@ -2377,12 +3721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.",
+            "homepage": null,
             "id": 51669870,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-07T06:49:50Z",
+            "open_issues": 30,
             "owner": "djadmin",
             "repo": "awesome-bug-bounty",
-            "stars": 5874
+            "stars": 5876,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:09:06.810Z"
         },
@@ -2393,12 +3742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature",
+            "homepage": null,
             "id": 67130928,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-31T22:02:17Z",
+            "open_issues": 3,
             "owner": "ngalongc",
             "repo": "bug-bounty-reference",
-            "stars": 4256
+            "stars": 4256,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:09:06.810Z"
         }
@@ -2417,12 +3771,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome XSS stuff",
+                "homepage": null,
                 "id": 124765446,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-30T19:01:10Z",
+                "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "AwesomeXSS",
-                "stars": 5140
+                "stars": 5140,
+                "topics": [
+                  "payload",
+                  "payload-list",
+                  "xss",
+                  "xss-cheatsheet",
+                  "xss-detection",
+                  "xss-payloads"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -2440,12 +3806,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个想帮你总结所有类型的上传漏洞的靶场",
+                "homepage": null,
                 "id": 134870037,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-06-26T12:37:14Z",
+                "open_issues": 26,
                 "owner": "c0ny1",
                 "repo": "upload-labs",
-                "stars": 4191
+                "stars": 4191,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -2463,12 +3834,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DNS-Persist is a post-exploitation agent which uses DNS for command and control.",
+                "homepage": null,
                 "id": 110261659,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-11-20T08:53:25Z",
+                "open_issues": 0,
                 "owner": "0x09AL",
                 "repo": "DNS-Persist",
-                "stars": 206
+                "stars": 207,
+                "topics": [
+                  "pentesting",
+                  "post-exploitation",
+                  "redteam"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -2492,12 +3872,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":trollface:Git的奇技淫巧",
+                "homepage": "https://hellogithub.com/article/9aed28d4d64b4649bb364685ef557ae4",
                 "id": 63418718,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-08T03:13:00Z",
+                "open_issues": 0,
                 "owner": "521xueweihan",
                 "repo": "git-tips",
-                "stars": 15855
+                "stars": 15855,
+                "topics": [
+                  "cheatsheet",
+                  "git",
+                  "github"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -2515,12 +3904,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）",
+                "homepage": "https://kenvix.com/post/usbcopyer/",
                 "id": 59306680,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-14T12:46:27Z",
+                "open_issues": 23,
                 "owner": "kenvix",
                 "repo": "USBCopyer",
-                "stars": 2992
+                "stars": 2992,
+                "topics": [
+                  "copy",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -2531,12 +3928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " 知识星球\"灰袍技能\" 2017 精华",
+                "homepage": null,
                 "id": 112908657,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-07-07T22:40:50Z",
+                "open_issues": 0,
                 "owner": "ChrisLinn",
                 "repo": "greyhame-2017",
-                "stars": 793
+                "stars": 793,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -2547,12 +3949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web安全中比较好的文章",
+                "homepage": null,
                 "id": 101552262,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2018-06-02T06:14:45Z",
+                "open_issues": 0,
                 "owner": "spoock1024",
                 "repo": "web-security",
-                "stars": 249
+                "stars": 249,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -2563,12 +3970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Record some common Web security sites",
+                "homepage": null,
                 "id": 169714093,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-08-31T14:52:30Z",
+                "open_issues": 0,
                 "owner": "Smi1eSEC",
                 "repo": "Web-Security-Note",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -2579,12 +3991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 111415764,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-11-20T13:47:53Z",
+                "open_issues": 0,
                 "owner": "tom0li",
                 "repo": "security_circle",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             },
@@ -2595,12 +4012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 111415764,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-11-20T13:47:53Z",
+                "open_issues": 0,
                 "owner": "tom0li",
                 "repo": "security_circle",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
             }
@@ -2614,15 +4036,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:09:06.810Z",
+    "last_updated": "2026-08-29T04:24:47.711Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of quality safety articles. Awesome articles.  ",
+      "homepage": "https://tom0li.github.io/",
       "id": 102005234,
       "language": null,
+      "license": null,
       "last_commit": "2024-09-26T00:57:16Z",
+      "open_issues": 0,
       "owner": "tom0li",
       "repo": "collection-document",
-      "stars": 2116
+      "stars": 2116,
+      "topics": [
+        "awesome",
+        "bounty-hunters",
+        "bug-bounty",
+        "cloud",
+        "dns",
+        "fuzz",
+        "github",
+        "hacker",
+        "hacking",
+        "java",
+        "list",
+        "pentest",
+        "redteam",
+        "research",
+        "sec",
+        "security",
+        "src",
+        "waf",
+        "web",
+        "xss"
+      ]
     },
     "original_repository_sha": "e4915c88f8012a7e6dc7f16f626a1829bccf2b1f",
     "enhanced_repository": "enhansome/enhansome-collection-document",
