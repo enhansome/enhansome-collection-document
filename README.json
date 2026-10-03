@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Curated list of awesome lists",
-              "description": null,
+              "description": "sindresorhus/awesome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513358,
+                "stars": 513795,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -48,7 +48,7 @@
                 "open_issues": 43,
                 "owner": "Hack-with-Github",
                 "repo": "Awesome-Hacking",
-                "stars": 121671,
+                "stars": 121732,
                 "topics": [
                   "android",
                   "awesome",
@@ -97,10 +97,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T20:56:00Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29863,
+                "stars": 29876,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -122,10 +122,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
-                "open_issues": 349,
+                "open_issues": 350,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14926,
+                "stars": 14930,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -136,7 +136,7 @@
             {
               "node_type": "item",
               "title": "awesome-malware-analysis",
-              "description": null,
+              "description": "rshipp/awesome-malware-analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,7 +149,7 @@
                 "open_issues": 25,
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14238,
+                "stars": 14237,
                 "topics": [
                   "analysis-framework",
                   "automated-analysis",
@@ -190,7 +190,7 @@
                 "open_issues": 28,
                 "owner": "blaCCkHatHacEEkr",
                 "repo": "PENTESTING-BIBLE",
-                "stars": 13977,
+                "stars": 13976,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -198,7 +198,7 @@
             {
               "node_type": "item",
               "title": "awesome-web-security",
-              "description": null,
+              "description": "qazbnm456/awesome-web-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -211,7 +211,7 @@
                 "open_issues": 13,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13840,
+                "stars": 13842,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -240,7 +240,7 @@
                 "open_issues": 0,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9722,
+                "stars": 9723,
                 "topics": [
                   "android",
                   "awesome",
@@ -267,7 +267,7 @@
                 "open_issues": 0,
                 "owner": "We5ter",
                 "repo": "Scanners-Box",
-                "stars": 9078,
+                "stars": 9077,
                 "topics": [
                   "agent-security-audit",
                   "agent-security-benchmark",
@@ -296,7 +296,7 @@
             {
               "node_type": "item",
               "title": "An Information Security Reference That Doesn't Suck",
-              "description": null,
+              "description": "rmusser01/Infosec_Reference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -350,7 +350,7 @@
                 "open_issues": 6,
                 "owner": "CHYbeta",
                 "repo": "Web-Security-Learning",
-                "stars": 4304,
+                "stars": 4302,
                 "topics": [
                   "security",
                   "sqlinjection",
@@ -388,7 +388,7 @@
             {
               "node_type": "item",
               "title": "awesome-awesome",
-              "description": null,
+              "description": "emijrp/awesome-awesome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -401,7 +401,7 @@
                 "open_issues": 29,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3217,
+                "stars": 3218,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -412,7 +412,7 @@
             {
               "node_type": "item",
               "title": "awesome-iot-hacks",
-              "description": null,
+              "description": "nebgnahz/awesome-iot-hacks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -438,7 +438,7 @@
             {
               "node_type": "item",
               "title": "Pentest_Interview",
-              "description": null,
+              "description": "Leezj9671/Pentest_Interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -527,7 +527,7 @@
             {
               "node_type": "item",
               "title": "resource collection of python security and code review",
-              "description": null,
+              "description": "bit4woo/python_sec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -540,7 +540,7 @@
                 "open_issues": 2,
                 "owner": "bit4woo",
                 "repo": "python_sec",
-                "stars": 1353,
+                "stars": 1351,
                 "topics": [
                   "code-review",
                   "dangerous-python-functions",
@@ -590,7 +590,7 @@
                 "open_issues": 0,
                 "owner": "JnuSimba",
                 "repo": "MiscSecNotes",
-                "stars": 926,
+                "stars": 925,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -647,7 +647,7 @@
             {
               "node_type": "item",
               "title": "Coding Interview University",
-              "description": null,
+              "description": "jwasham/coding-interview-university",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -660,7 +660,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362218,
+                "stars": 362262,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -681,7 +681,7 @@
             {
               "node_type": "item",
               "title": "Python-100-Days",
-              "description": null,
+              "description": "jackfrued/Python-100-Days",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -694,7 +694,7 @@
                 "open_issues": 716,
                 "owner": "jackfrued",
                 "repo": "Python-100-Days",
-                "stars": 187034,
+                "stars": 187039,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -702,7 +702,7 @@
             {
               "node_type": "item",
               "title": "面试必备基础知识",
-              "description": null,
+              "description": "CyC2018/CS-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -715,7 +715,7 @@
                 "open_issues": 197,
                 "owner": "CyC2018",
                 "repo": "CS-Notes",
-                "stars": 186377,
+                "stars": 186369,
                 "topics": [
                   "algorithm",
                   "computer-science",
@@ -732,7 +732,7 @@
             {
               "node_type": "item",
               "title": "Java学习+面试指南 一份涵盖大部分Java程序员所需要掌握的核心知识",
-              "description": null,
+              "description": "Snailclimb/JavaGuide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -745,7 +745,7 @@
                 "open_issues": 19,
                 "owner": "Snailclimb",
                 "repo": "JavaGuide",
-                "stars": 159006,
+                "stars": 159007,
                 "topics": [
                   "agent",
                   "ai",
@@ -780,7 +780,7 @@
                 "open_issues": 37,
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 143089,
+                "stars": 143099,
                 "topics": [
                   "algorithm",
                   "algorithm-interview",
@@ -799,7 +799,7 @@
             {
               "node_type": "item",
               "title": "算法手记",
-              "description": null,
+              "description": "labuladong/fucking-algorithm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -812,7 +812,7 @@
                 "open_issues": 1,
                 "owner": "labuladong",
                 "repo": "fucking-algorithm",
-                "stars": 136081,
+                "stars": 136073,
                 "topics": [
                   "algorithms",
                   "computer-science",
@@ -829,7 +829,7 @@
             {
               "node_type": "item",
               "title": "互联网 Java 工程师进阶知识完全扫盲",
-              "description": null,
+              "description": "doocs/advanced-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -842,7 +842,7 @@
                 "open_issues": 0,
                 "owner": "doocs",
                 "repo": "advanced-java",
-                "stars": 79138,
+                "stars": 79137,
                 "topics": [
                   "advanced-java",
                   "distributed-search-engine",
@@ -871,7 +871,7 @@
             {
               "node_type": "item",
               "title": "A collection of full-stack resources for programmers.",
-              "description": null,
+              "description": "charlax/professional-programming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -906,7 +906,7 @@
             {
               "node_type": "item",
               "title": "interview_internal_reference",
-              "description": null,
+              "description": "0voice/interview_internal_reference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -919,7 +919,7 @@
                 "open_issues": 35,
                 "owner": "0voice",
                 "repo": "interview_internal_reference",
-                "stars": 37263,
+                "stars": 37261,
                 "topics": [
                   "cpu",
                   "high-performance",
@@ -938,7 +938,7 @@
             {
               "node_type": "item",
               "title": "数据结构和算法必知必会的50个代码实现",
-              "description": null,
+              "description": "wangzheng0822/algo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -951,7 +951,7 @@
                 "open_issues": 160,
                 "owner": "wangzheng0822",
                 "repo": "algo",
-                "stars": 23137,
+                "stars": 23136,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -972,7 +972,7 @@
                 "open_issues": 17,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18521,
+                "stars": 18519,
                 "topics": [
                   "interview",
                   "interview-questions",
@@ -984,7 +984,7 @@
             {
               "node_type": "item",
               "title": "关于Python的面试题",
-              "description": null,
+              "description": "taizilongxu/interview_python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -997,7 +997,7 @@
                 "open_issues": 34,
                 "owner": "taizilongxu",
                 "repo": "interview_python",
-                "stars": 17398,
+                "stars": 17399,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -1005,7 +1005,7 @@
             {
               "node_type": "item",
               "title": "Python Cheat Sheet",
-              "description": null,
+              "description": "crazyguitar/pysheeet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1031,7 +1031,7 @@
             {
               "node_type": "item",
               "title": "CS基础",
-              "description": null,
+              "description": "selfboot/CS_Offer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1044,7 +1044,7 @@
                 "open_issues": 12,
                 "owner": "selfboot",
                 "repo": "CS_Offer",
-                "stars": 2244,
+                "stars": 2243,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -1061,7 +1061,7 @@
             {
               "node_type": "item",
               "title": "python3-source-code-analysis",
-              "description": null,
+              "description": "flaggo/python3-source-code-analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1082,7 +1082,7 @@
             {
               "node_type": "item",
               "title": "web, 前端, javascript, nodejs, electron, babel, webpack, rollup, react, vue ...",
-              "description": null,
+              "description": "deepraining/blogs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1109,7 +1109,7 @@
             {
               "node_type": "item",
               "title": "算法/深度学习/NLP面试笔记",
-              "description": null,
+              "description": "imhuay/sspace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1146,11 +1146,11 @@
                 "id": 63539055,
                 "language": "Swift",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-02T03:47:43Z",
-                "open_issues": 1070,
+                "last_commit": "2026-10-03T04:26:43Z",
+                "open_issues": 1080,
                 "owner": "jaywcjlove",
                 "repo": "awesome-mac",
-                "stars": 115259,
+                "stars": 115303,
                 "topics": [
                   "app",
                   "apple",
@@ -1189,10 +1189,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-19T11:38:43Z",
-                "open_issues": 9314,
+                "open_issues": 9322,
                 "owner": "ruanyf",
                 "repo": "weekly",
-                "stars": 105080,
+                "stars": 105102,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -1209,11 +1209,11 @@
                 "id": 3482588,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-01T11:16:33Z",
+                "last_commit": "2026-10-02T16:19:08Z",
                 "open_issues": 9,
                 "owner": "danielmiessler",
                 "repo": "SecLists",
-                "stars": 73873,
+                "stars": 73893,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -1221,7 +1221,7 @@
             {
               "node_type": "item",
               "title": "杭州买房",
-              "description": null,
+              "description": "houshanren/hangzhou_house_knowledge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1234,7 +1234,7 @@
                 "open_issues": 103,
                 "owner": "houshanren",
                 "repo": "hangzhou_house_knowledge",
-                "stars": 26851,
+                "stars": 26850,
                 "topics": [
                   "hangzhou",
                   "knowledge"
@@ -1245,7 +1245,7 @@
             {
               "node_type": "item",
               "title": "中国程序员容易发音错误的单词",
-              "description": null,
+              "description": "shimohq/chinese-programmer-wrong-pronunciation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1271,7 +1271,7 @@
             {
               "node_type": "item",
               "title": "macOS-Security-and-Privacy-Guide",
-              "description": null,
+              "description": "drduh/macOS-Security-and-Privacy-Guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1284,7 +1284,7 @@
                 "open_issues": 5,
                 "owner": "drduh",
                 "repo": "macOS-Security-and-Privacy-Guide",
-                "stars": 22531,
+                "stars": 22535,
                 "topics": [
                   "apple",
                   "checklist",
@@ -1320,10 +1320,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-23T18:27:23Z",
-                "open_issues": 201,
+                "open_issues": 207,
                 "owner": "iCHAIT",
                 "repo": "awesome-macOS",
-                "stars": 19281,
+                "stars": 19284,
                 "topics": [
                   "apple",
                   "awesome",
@@ -1339,7 +1339,7 @@
             {
               "node_type": "item",
               "title": "专为程序员编写的英语学习指南 v1.2",
-              "description": null,
+              "description": "yujiangshui/A-Programmers-Guide-to-English",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1352,7 +1352,7 @@
                 "open_issues": 10,
                 "owner": "yujiangshui",
                 "repo": "A-Programmers-Guide-to-English",
-                "stars": 16868,
+                "stars": 16866,
                 "topics": [
                   "english",
                   "english-learning"
@@ -1363,7 +1363,7 @@
             {
               "node_type": "item",
               "title": "对开发人员有用的定律、理论、原则和模式",
-              "description": null,
+              "description": "nusr/hacker-laws-zh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1376,7 +1376,7 @@
                 "open_issues": 9,
                 "owner": "nusr",
                 "repo": "hacker-laws-zh",
-                "stars": 12497,
+                "stars": 12496,
                 "topics": [
                   "chinese",
                   "coding",
@@ -1418,7 +1418,7 @@
             {
               "node_type": "item",
               "title": "996.Leave",
-              "description": null,
+              "description": "623637646/996.Leave",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1479,7 +1479,7 @@
                 "open_issues": 19,
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5756,
+                "stars": 5754,
                 "topics": [
                   "awesome",
                   "courses",
@@ -1496,7 +1496,7 @@
             {
               "node_type": "item",
               "title": "上海买房",
-              "description": null,
+              "description": "ayuer/shanghai_house_knowledge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1530,7 +1530,7 @@
                 "open_issues": 3,
                 "owner": "phith0n",
                 "repo": "Mind-Map",
-                "stars": 4597,
+                "stars": 4596,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -1551,7 +1551,7 @@
                 "open_issues": 1,
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4280,
+                "stars": 4281,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1587,7 +1587,7 @@
                 "open_issues": 4,
                 "owner": "foospidy",
                 "repo": "payloads",
-                "stars": 3987,
+                "stars": 3986,
                 "topics": [
                   "appsec",
                   "cybersecurity",
@@ -1606,7 +1606,7 @@
             {
               "node_type": "item",
               "title": "信息安全从业者书单推荐",
-              "description": null,
+              "description": "riusksk/secbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1619,7 +1619,7 @@
                 "open_issues": 4,
                 "owner": "riusksk",
                 "repo": "secbook",
-                "stars": 3225,
+                "stars": 3223,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -1627,7 +1627,7 @@
             {
               "node_type": "item",
               "title": "awesome-security-weixin-official-accounts",
-              "description": null,
+              "description": "DropsOfZut/awesome-security-weixin-official-accounts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1636,11 +1636,11 @@
                 "id": 107497649,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T00:30:56Z",
+                "last_commit": "2026-10-03T00:42:31Z",
                 "open_issues": 5,
                 "owner": "DropsOfZut",
                 "repo": "awesome-security-weixin-official-accounts",
-                "stars": 2266,
+                "stars": 2268,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -1661,7 +1661,7 @@
                 "open_issues": 1,
                 "owner": "B3nac",
                 "repo": "Android-Reports-and-Resources",
-                "stars": 1714,
+                "stars": 1712,
                 "topics": [
                   "android",
                   "android-repo",
@@ -1683,7 +1683,7 @@
             {
               "node_type": "item",
               "title": "租房要点，适用于北上广深杭",
-              "description": null,
+              "description": "soulteary/tenant-point",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1725,7 +1725,7 @@
             {
               "node_type": "item",
               "title": "北京买房图鉴",
-              "description": null,
+              "description": "yangyiRunning/Beijing-House",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1822,7 +1822,7 @@
             {
               "node_type": "item",
               "title": "Donot师傅收集的入侵检测相关的内容",
-              "description": null,
+              "description": "donot-wong/SecAcademic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1887,55 +1887,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "阿里云安全白皮书",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Collection of quality safety articles. Awesome articles.  ",
-                    "homepage": "https://tom0li.github.io/",
-                    "id": 102005234,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-09-26T00:57:16Z",
-                    "open_issues": 1,
-                    "owner": "tom0li",
-                    "repo": "collection-document",
-                    "stars": 2119,
-                    "topics": [
-                      "awesome",
-                      "bounty-hunters",
-                      "bug-bounty",
-                      "cloud",
-                      "dns",
-                      "fuzz",
-                      "github",
-                      "hacker",
-                      "hacking",
-                      "java",
-                      "list",
-                      "pentest",
-                      "redteam",
-                      "research",
-                      "sec",
-                      "security",
-                      "src",
-                      "waf",
-                      "web",
-                      "xss"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T12:09:06.810Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "云原生安全"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
                   "title": "Kubernetes security",
                   "description": "This repo is a collection of kubernetes security stuff and research.",
                   "children": [],
@@ -1967,7 +1918,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome-serverless",
-                  "description": null,
+                  "description": "puresec/awesome-serverless-security",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2056,7 +2007,7 @@
             {
               "node_type": "item",
               "title": "0xMJ:AI-Security-Learning",
-              "description": null,
+              "description": "0xMJ/AI-Security-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2114,7 +2065,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome-DevSecOps",
-                  "description": null,
+                  "description": "devsecops/awesome-devsecops",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2167,7 +2118,7 @@
                     "open_issues": 79,
                     "owner": "LandGrey",
                     "repo": "webshell-detect-bypass",
-                    "stars": 1734,
+                    "stars": 1733,
                     "topics": [
                       "asp-webshell",
                       "backdoor",
@@ -2185,7 +2136,7 @@
                 {
                   "node_type": "item",
                   "title": "Webshell攻与防PHP",
-                  "description": null,
+                  "description": "qiyeboy/kill_webshell_detect",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2254,7 +2205,7 @@
                     "open_issues": 1,
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1210,
+                    "stars": 1209,
                     "topics": [
                       "antivirus",
                       "antivirus-evasion",
@@ -2281,7 +2232,7 @@
                 {
                   "node_type": "item",
                   "title": "杀软检测及其Hook点list",
-                  "description": null,
+                  "description": "ethereal-vx/Antivirus-Artifacts",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2319,10 +2270,10 @@
                     "language": "Python",
                     "license": "Artistic-2.0",
                     "last_commit": "2026-06-01T14:15:45Z",
-                    "open_issues": 31,
+                    "open_issues": 30,
                     "owner": "paralax",
                     "repo": "awesome-honeypots",
-                    "stars": 10577,
+                    "stars": 10579,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2352,7 +2303,7 @@
                     "id": 27561102,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T18:25:25Z",
+                    "last_commit": "2026-10-02T20:43:22Z",
                     "open_issues": 37,
                     "owner": "stamparm",
                     "repo": "maltrail",
@@ -2387,7 +2338,7 @@
                 {
                   "node_type": "item",
                   "title": "记录一些网络空间测绘/搜索引擎相关的资料",
-                  "description": null,
+                  "description": "EXHades/CyberSpaceSearchEngine-Research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2463,7 +2414,7 @@
                 {
                   "node_type": "item",
                   "title": "Red-Team-Infrastructure-Wiki",
-                  "description": null,
+                  "description": "bluscreenofjeff/Red-Team-Infrastructure-Wiki",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2476,7 +2427,7 @@
                     "open_issues": 0,
                     "owner": "bluscreenofjeff",
                     "repo": "Red-Team-Infrastructure-Wiki",
-                    "stars": 4535,
+                    "stars": 4536,
                     "topics": [
                       "cobalt-strike",
                       "empire",
@@ -2504,7 +2455,7 @@
                     "open_issues": 1,
                     "owner": "CyberMonitor",
                     "repo": "APT_CyberCriminal_Campagin_Collections",
-                    "stars": 4106,
+                    "stars": 4105,
                     "topics": [
                       "apt"
                     ]
@@ -2534,7 +2485,7 @@
                     "open_issues": 93,
                     "owner": "SpecterOps",
                     "repo": "BloodHound-Legacy",
-                    "stars": 10609,
+                    "stars": 10607,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
@@ -2549,7 +2500,7 @@
                 {
                   "node_type": "item",
                   "title": "QuasarRAT",
-                  "description": null,
+                  "description": "quasar/Quasar",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2602,7 +2553,7 @@
             {
               "node_type": "item",
               "title": "如何使用Fuzzing挖掘ImageMagick的漏洞",
-              "description": null,
+              "description": "lcatro/Fuzzing-ImageMagick",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2630,7 +2581,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Fuzzing",
-              "description": null,
+              "description": "secfigo/Awesome-Fuzzing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2643,7 +2594,7 @@
                 "open_issues": 12,
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
-                "stars": 5918,
+                "stars": 5919,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2668,7 +2619,7 @@
         {
           "node_type": "item",
           "title": "Java漏洞代码",
-          "description": null,
+          "description": "JoyChou93/java-sec-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2707,7 +2658,7 @@
             {
               "node_type": "item",
               "title": "Java-Deserialization-Cheat-Sheet",
-              "description": null,
+              "description": "GrrrDog/Java-Deserialization-Cheat-Sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2739,7 +2690,7 @@
             {
               "node_type": "item",
               "title": "Apache Solr Injection Research",
-              "description": null,
+              "description": "veracode-research/solr-injection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2765,7 +2716,7 @@
             {
               "node_type": "item",
               "title": "solr-injection",
-              "description": null,
+              "description": "veracode-research/solr-injection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2800,7 +2751,7 @@
                 {
                   "node_type": "item",
                   "title": "Spring Boot Vulnerability Exploit CheckList",
-                  "description": null,
+                  "description": "LandGrey/SpringBootVulExploit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2813,7 +2764,7 @@
                     "open_issues": 5,
                     "owner": "LandGrey",
                     "repo": "SpringBootVulExploit",
-                    "stars": 6146,
+                    "stars": 6144,
                     "topics": [
                       "rce",
                       "spring-actuator-vulnerability",
@@ -2863,7 +2814,7 @@
                     "open_issues": 133,
                     "owner": "enaqx",
                     "repo": "awesome-pentest",
-                    "stars": 27325,
+                    "stars": 27330,
                     "topics": [
                       "awesome",
                       "awesome-list"
@@ -2874,7 +2825,7 @@
                 {
                   "node_type": "item",
                   "title": "Micropoor",
-                  "description": null,
+                  "description": "Micropoor/Micro8",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2887,7 +2838,7 @@
                     "open_issues": 17,
                     "owner": "Micropoor",
                     "repo": "Micro8",
-                    "stars": 18047,
+                    "stars": 18045,
                     "topics": [
                       "micro8",
                       "micropoor",
@@ -2912,7 +2863,7 @@
                     "open_issues": 2,
                     "owner": "coreb1t",
                     "repo": "awesome-pentest-cheat-sheets",
-                    "stars": 4373,
+                    "stars": 4372,
                     "topics": [
                       "awesome",
                       "cheatsheet",
@@ -2928,7 +2879,7 @@
                 {
                   "node_type": "item",
                   "title": "pentest-wiki",
-                  "description": null,
+                  "description": "nixawk/pentest-wiki",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2941,7 +2892,7 @@
                     "open_issues": 21,
                     "owner": "nixawk",
                     "repo": "pentest-wiki",
-                    "stars": 3773,
+                    "stars": 3771,
                     "topics": [
                       "hacking",
                       "pentest",
@@ -2953,7 +2904,7 @@
                 {
                   "node_type": "item",
                   "title": "Pentesting checklists for various engagements",
-                  "description": null,
+                  "description": "netbiosX/Checklists",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2973,92 +2924,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "渗透测试实战第三版",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Collection of quality safety articles. Awesome articles.  ",
-                    "homepage": "https://tom0li.github.io/",
-                    "id": 102005234,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-09-26T00:57:16Z",
-                    "open_issues": 1,
-                    "owner": "tom0li",
-                    "repo": "collection-document",
-                    "stars": 2119,
-                    "topics": [
-                      "awesome",
-                      "bounty-hunters",
-                      "bug-bounty",
-                      "cloud",
-                      "dns",
-                      "fuzz",
-                      "github",
-                      "hacker",
-                      "hacking",
-                      "java",
-                      "list",
-                      "pentest",
-                      "redteam",
-                      "research",
-                      "sec",
-                      "security",
-                      "src",
-                      "waf",
-                      "web",
-                      "xss"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T12:09:06.810Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Redis主从利用ppt",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Collection of quality safety articles. Awesome articles.  ",
-                    "homepage": "https://tom0li.github.io/",
-                    "id": 102005234,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-09-26T00:57:16Z",
-                    "open_issues": 1,
-                    "owner": "tom0li",
-                    "repo": "collection-document",
-                    "stars": 2119,
-                    "topics": [
-                      "awesome",
-                      "bounty-hunters",
-                      "bug-bounty",
-                      "cloud",
-                      "dns",
-                      "fuzz",
-                      "github",
-                      "hacker",
-                      "hacking",
-                      "java",
-                      "list",
-                      "pentest",
-                      "redteam",
-                      "research",
-                      "sec",
-                      "security",
-                      "src",
-                      "waf",
-                      "web",
-                      "xss"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T12:09:06.810Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "ssrf内网漫游",
-                  "description": null,
+                  "description": "r35tart/Penetration_Testing_Case",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3079,7 +2946,7 @@
                 {
                   "node_type": "item",
                   "title": "pentest-bookmarks",
-                  "description": null,
+                  "description": "rutkai/pentest-bookmarks",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3092,7 +2959,7 @@
                     "open_issues": 1,
                     "owner": "rutkai",
                     "repo": "pentest-bookmarks",
-                    "stars": 289,
+                    "stars": 288,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3107,7 +2974,7 @@
                 {
                   "node_type": "item",
                   "title": "Google Hacking Database",
-                  "description": null,
+                  "description": "K0rz3n/GoogleHacking-Page",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3120,7 +2987,7 @@
                     "open_issues": 0,
                     "owner": "K0rz3n",
                     "repo": "GoogleHacking-Page",
-                    "stars": 292,
+                    "stars": 291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3128,7 +2995,7 @@
                 {
                   "node_type": "item",
                   "title": "Google Hacking",
-                  "description": null,
+                  "description": "K0rz3n/GoogleHacking-Page",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3141,7 +3008,7 @@
                     "open_issues": 0,
                     "owner": "K0rz3n",
                     "repo": "GoogleHacking-Page",
-                    "stars": 292,
+                    "stars": 291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3156,7 +3023,7 @@
                 {
                   "node_type": "item",
                   "title": "vulhub",
-                  "description": null,
+                  "description": "vulhub/vulhub",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3169,7 +3036,7 @@
                     "open_issues": 53,
                     "owner": "vulhub",
                     "repo": "vulhub",
-                    "stars": 21310,
+                    "stars": 21311,
                     "topics": [
                       "docker",
                       "docker-compose",
@@ -3183,7 +3050,7 @@
                 {
                   "node_type": "item",
                   "title": "vulfocus",
-                  "description": null,
+                  "description": "fofapro/vulfocus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3196,7 +3063,7 @@
                     "open_issues": 74,
                     "owner": "fofapro",
                     "repo": "vulfocus",
-                    "stars": 3502,
+                    "stars": 3500,
                     "topics": [
                       "docker",
                       "vulfocus",
@@ -3231,7 +3098,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81398,
+                    "stars": 81425,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -3257,7 +3124,7 @@
                 {
                   "node_type": "item",
                   "title": "awesome-burp-extensions",
-                  "description": null,
+                  "description": "snoopysecurity/awesome-burp-extensions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3270,7 +3137,7 @@
                     "open_issues": 1,
                     "owner": "snoopysecurity",
                     "repo": "awesome-burp-extensions",
-                    "stars": 3447,
+                    "stars": 3446,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3278,7 +3145,7 @@
                 {
                   "node_type": "item",
                   "title": "Frida.Android.Practice (ssl unpinning)",
-                  "description": null,
+                  "description": "WooyunDota/DroidDrops",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3299,7 +3166,7 @@
                 {
                   "node_type": "item",
                   "title": "iptable介绍",
-                  "description": null,
+                  "description": "tom0li/security_circle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3332,7 +3199,7 @@
             {
               "node_type": "item",
               "title": "AD-Attack-Defense",
-              "description": null,
+              "description": "infosecn1nja/AD-Attack-Defense",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3345,7 +3212,7 @@
                 "open_issues": 2,
                 "owner": "infosecn1nja",
                 "repo": "AD-Attack-Defense",
-                "stars": 4867,
+                "stars": 4866,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3353,7 +3220,7 @@
             {
               "node_type": "item",
               "title": "Intranet_Penetration_Tips",
-              "description": null,
+              "description": "Ridter/Intranet_Penetration_Tips",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3366,7 +3233,7 @@
                 "open_issues": 0,
                 "owner": "Ridter",
                 "repo": "Intranet_Penetration_Tips",
-                "stars": 4617,
+                "stars": 4616,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3374,7 +3241,7 @@
             {
               "node_type": "item",
               "title": "l3m0n:从零开始内网渗透学习",
-              "description": null,
+              "description": "l3m0n/pentest_study",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3387,7 +3254,7 @@
                 "open_issues": 3,
                 "owner": "l3m0n",
                 "repo": "pentest_study",
-                "stars": 3037,
+                "stars": 3035,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3395,7 +3262,7 @@
             {
               "node_type": "item",
               "title": "uknowsec / Active-Directory-Pentest-Notes",
-              "description": null,
+              "description": "uknowsec/Active-Directory-Pentest-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3408,7 +3275,7 @@
                 "open_issues": 3,
                 "owner": "uknowsec",
                 "repo": "Active-Directory-Pentest-Notes",
-                "stars": 1805,
+                "stars": 1803,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3418,7 +3285,7 @@
                 {
                   "node_type": "item",
                   "title": "BloodHound",
-                  "description": null,
+                  "description": "SpecterOps/BloodHound-Legacy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3431,7 +3298,7 @@
                     "open_issues": 93,
                     "owner": "SpecterOps",
                     "repo": "BloodHound-Legacy",
-                    "stars": 10609,
+                    "stars": 10607,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3460,7 +3327,7 @@
                 {
                   "node_type": "item",
                   "title": "3gstudent/Pentest-and-Development-Tips",
-                  "description": null,
+                  "description": "3gstudent/Pentest-and-Development-Tips",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3481,7 +3348,7 @@
                 {
                   "node_type": "item",
                   "title": "渗透技巧之隐藏自己的工具",
-                  "description": null,
+                  "description": "tom0li/security_circle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3502,7 +3369,7 @@
                 {
                   "node_type": "item",
                   "title": "白名单下载恶意代码的一个技巧",
-                  "description": null,
+                  "description": "tom0li/security_circle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3523,7 +3390,7 @@
                 {
                   "node_type": "item",
                   "title": "白名单下载恶意代码",
-                  "description": null,
+                  "description": "tom0li/security_circle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3544,7 +3411,7 @@
                 {
                   "node_type": "item",
                   "title": "一条命令实现无文件兼容性强的反弹后门,收集自强大的前乌云",
-                  "description": null,
+                  "description": "tom0li/security_circle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3572,7 +3439,7 @@
                 {
                   "node_type": "item",
                   "title": "windows-kernel-exploits Windows平台提权漏洞集合",
-                  "description": null,
+                  "description": "SecWiki/windows-kernel-exploits",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3585,7 +3452,7 @@
                     "open_issues": 10,
                     "owner": "SecWiki",
                     "repo": "windows-kernel-exploits",
-                    "stars": 8745,
+                    "stars": 8744,
                     "topics": [
                       "collections",
                       "exploit",
@@ -3613,7 +3480,7 @@
                     "open_issues": 1,
                     "owner": "xairy",
                     "repo": "linux-kernel-exploitation",
-                    "stars": 6650,
+                    "stars": 6649,
                     "topics": [
                       "exploit",
                       "kernel-exploitation",
@@ -3627,7 +3494,7 @@
                 {
                   "node_type": "item",
                   "title": "linux-kernel-exploits Linux平台提权漏洞集合",
-                  "description": null,
+                  "description": "SecWiki/linux-kernel-exploits",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3640,7 +3507,7 @@
                     "open_issues": 4,
                     "owner": "SecWiki",
                     "repo": "linux-kernel-exploits",
-                    "stars": 5651,
+                    "stars": 5649,
                     "topics": [
                       "awesome",
                       "collection",
@@ -3656,7 +3523,7 @@
                 {
                   "node_type": "item",
                   "title": "win提权辅助tool",
-                  "description": null,
+                  "description": "strozfriedberg/Windows-Exploit-Suggester",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3669,7 +3536,7 @@
                     "open_issues": 33,
                     "owner": "strozfriedberg",
                     "repo": "Windows-Exploit-Suggester",
-                    "stars": 4228,
+                    "stars": 4227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3693,7 +3560,7 @@
         {
           "node_type": "item",
           "title": "bugbounty-cheatsheet",
-          "description": null,
+          "description": "EdOverflow/bugbounty-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3706,7 +3573,7 @@
             "open_issues": 13,
             "owner": "EdOverflow",
             "repo": "bugbounty-cheatsheet",
-            "stars": 6555,
+            "stars": 6553,
             "topics": [
               "bugbounty",
               "infosec",
@@ -3740,7 +3607,7 @@
         {
           "node_type": "item",
           "title": "bug-bounty-reference",
-          "description": null,
+          "description": "ngalongc/bug-bounty-reference",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3769,7 +3636,7 @@
             {
               "node_type": "item",
               "title": "AwesomeXSS",
-              "description": null,
+              "description": "s0md3v/AwesomeXSS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3782,7 +3649,7 @@
                 "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "AwesomeXSS",
-                "stars": 5145,
+                "stars": 5144,
                 "topics": [
                   "payload",
                   "payload-list",
@@ -3804,7 +3671,7 @@
             {
               "node_type": "item",
               "title": "上传漏洞的靶场",
-              "description": null,
+              "description": "c0ny1/upload-labs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3817,7 +3684,7 @@
                 "open_issues": 26,
                 "owner": "c0ny1",
                 "repo": "upload-labs",
-                "stars": 4200,
+                "stars": 4199,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:06.810Z"
@@ -3832,7 +3699,7 @@
             {
               "node_type": "item",
               "title": "DNS-Persist: 利用 DNS 协议进行远程控制通信",
-              "description": null,
+              "description": "0x09AL/DNS-Persist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3870,7 +3737,7 @@
             {
               "node_type": "item",
               "title": "Git的tip",
-              "description": null,
+              "description": "521xueweihan/git-tips",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3883,7 +3750,7 @@
                 "open_issues": 0,
                 "owner": "521xueweihan",
                 "repo": "git-tips",
-                "stars": 15865,
+                "stars": 15864,
                 "topics": [
                   "cheatsheet",
                   "git",
@@ -3902,7 +3769,7 @@
             {
               "node_type": "item",
               "title": "偷U盘文件的神器",
-              "description": null,
+              "description": "kenvix/USBCopyer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3915,7 +3782,7 @@
                 "open_issues": 24,
                 "owner": "kenvix",
                 "repo": "USBCopyer",
-                "stars": 2999,
+                "stars": 2998,
                 "topics": [
                   "copy",
                   "tool"
@@ -3926,7 +3793,7 @@
             {
               "node_type": "item",
               "title": "灰袍2017",
-              "description": null,
+              "description": "ChrisLinn/greyhame-2017",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3968,7 +3835,7 @@
             {
               "node_type": "item",
               "title": "Web-Security-Note",
-              "description": null,
+              "description": "Smi1eSEC/Web-Security-Note",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3989,7 +3856,7 @@
             {
               "node_type": "item",
               "title": "弦哥从新加坡HITB黑客大会进口过来的黑魔法命令",
-              "description": null,
+              "description": "tom0li/security_circle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4010,7 +3877,7 @@
             {
               "node_type": "item",
               "title": "编程的重要性之 sqlmap 源码",
-              "description": null,
+              "description": "tom0li/security_circle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4038,7 +3905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:07:24.062Z",
+    "last_updated": "2026-10-03T04:36:49.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of quality safety articles. Awesome articles.  ",
@@ -4050,7 +3917,7 @@
       "open_issues": 1,
       "owner": "tom0li",
       "repo": "collection-document",
-      "stars": 2119,
+      "stars": 2117,
       "topics": [
         "awesome",
         "bounty-hunters",
