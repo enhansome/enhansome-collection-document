@@ -21,7 +21,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513795,
+                "stars": 513809,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -48,7 +48,7 @@
                 "open_issues": 43,
                 "owner": "Hack-with-Github",
                 "repo": "Awesome-Hacking",
-                "stars": 121732,
+                "stars": 121735,
                 "topics": [
                   "android",
                   "awesome",
@@ -100,7 +100,7 @@
                 "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29876,
+                "stars": 29877,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -240,7 +240,7 @@
                 "open_issues": 0,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9723,
+                "stars": 9724,
                 "topics": [
                   "android",
                   "awesome",
@@ -425,7 +425,7 @@
                 "open_issues": 3,
                 "owner": "nebgnahz",
                 "repo": "awesome-iot-hacks",
-                "stars": 2429,
+                "stars": 2428,
                 "topics": [
                   "awesome",
                   "hack",
@@ -493,7 +493,7 @@
                 "open_issues": 4,
                 "owner": "euphrat1ca",
                 "repo": "Security-List",
-                "stars": 1533,
+                "stars": 1532,
                 "topics": [
                   "checklist",
                   "geek",
@@ -660,7 +660,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362262,
+                "stars": 362263,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -745,7 +745,7 @@
                 "open_issues": 19,
                 "owner": "Snailclimb",
                 "repo": "JavaGuide",
-                "stars": 159007,
+                "stars": 159008,
                 "topics": [
                   "agent",
                   "ai",
@@ -780,7 +780,7 @@
                 "open_issues": 37,
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 143099,
+                "stars": 143100,
                 "topics": [
                   "algorithm",
                   "algorithm-interview",
@@ -1150,7 +1150,7 @@
                 "open_issues": 1080,
                 "owner": "jaywcjlove",
                 "repo": "awesome-mac",
-                "stars": 115303,
+                "stars": 115305,
                 "topics": [
                   "app",
                   "apple",
@@ -1189,7 +1189,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-19T11:38:43Z",
-                "open_issues": 9322,
+                "open_issues": 9323,
                 "owner": "ruanyf",
                 "repo": "weekly",
                 "stars": 105102,
@@ -2814,7 +2814,7 @@
                     "open_issues": 133,
                     "owner": "enaqx",
                     "repo": "awesome-pentest",
-                    "stars": 27330,
+                    "stars": 27331,
                     "topics": [
                       "awesome",
                       "awesome-list"
@@ -3098,7 +3098,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81425,
+                    "stars": 81426,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -3905,7 +3905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:49.027Z",
+    "last_updated": "2026-10-03T05:41:37.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of quality safety articles. Awesome articles.  ",
